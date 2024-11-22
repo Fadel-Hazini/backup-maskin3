@@ -1,0 +1,662 @@
+2024-11-04T08:33:14+0100 INFO --- logging initialized ---
+2024-11-04T09:46:12+0100 INFO --- logging initialized ---
+2024-11-04T11:32:12+0100 INFO --- logging initialized ---
+2024-11-04T12:47:12+0100 INFO --- logging initialized ---
+2024-11-04T14:14:12+0100 INFO --- logging initialized ---
+2024-11-04T16:09:12+0100 INFO --- logging initialized ---
+2024-11-04T17:15:12+0100 INFO --- logging initialized ---
+2024-11-04T18:54:12+0100 INFO --- logging initialized ---
+2024-11-04T20:09:12+0100 INFO --- logging initialized ---
+2024-11-04T21:20:12+0100 INFO --- logging initialized ---
+2024-11-04T22:38:12+0100 INFO --- logging initialized ---
+2024-11-05T00:36:12+0100 INFO --- logging initialized ---
+2024-11-05T02:10:12+0100 INFO --- logging initialized ---
+2024-11-05T03:17:02+0100 INFO --- logging initialized ---
+2024-11-05T04:58:12+0100 INFO --- logging initialized ---
+2024-11-05T06:08:12+0100 INFO --- logging initialized ---
+2024-11-05T07:56:12+0100 INFO --- logging initialized ---
+2024-11-05T09:18:12+0100 INFO --- logging initialized ---
+2024-11-05T10:31:12+0100 INFO --- logging initialized ---
+2024-11-05T11:32:12+0100 INFO --- logging initialized ---
+2024-11-05T12:48:12+0100 INFO --- logging initialized ---
+2024-11-05T14:32:12+0100 INFO --- logging initialized ---
+2024-11-05T16:06:02+0100 INFO --- logging initialized ---
+2024-11-05T17:15:12+0100 INFO --- logging initialized ---
+2024-11-05T18:50:12+0100 INFO --- logging initialized ---
+2024-11-05T20:31:12+0100 INFO --- logging initialized ---
+2024-11-05T22:11:12+0100 INFO --- logging initialized ---
+2024-11-05T23:54:12+0100 INFO --- logging initialized ---
+2024-11-06T01:27:12+0100 INFO --- logging initialized ---
+2024-11-06T02:55:12+0100 INFO --- logging initialized ---
+2024-11-06T04:42:12+0100 INFO --- logging initialized ---
+2024-11-06T06:04:12+0100 INFO --- logging initialized ---
+2024-11-06T07:20:12+0100 INFO --- logging initialized ---
+2024-11-06T09:01:01+0100 INFO --- logging initialized ---
+2024-11-06T10:05:12+0100 INFO --- logging initialized ---
+2024-11-06T11:33:12+0100 INFO --- logging initialized ---
+2024-11-06T12:37:12+0100 INFO --- logging initialized ---
+2024-11-06T13:50:12+0100 INFO --- logging initialized ---
+2024-11-06T15:04:12+0100 INFO --- logging initialized ---
+2024-11-06T16:45:12+0100 INFO --- logging initialized ---
+2024-11-06T18:00:12+0100 INFO --- logging initialized ---
+2024-11-06T19:23:12+0100 INFO --- logging initialized ---
+2024-11-06T21:03:12+0100 INFO --- logging initialized ---
+2024-11-06T22:57:12+0100 INFO --- logging initialized ---
+2024-11-07T00:21:12+0100 INFO --- logging initialized ---
+2024-11-07T01:49:12+0100 INFO --- logging initialized ---
+2024-11-07T03:36:12+0100 INFO --- logging initialized ---
+2024-11-07T05:10:12+0100 INFO --- logging initialized ---
+2024-11-07T07:02:12+0100 INFO --- logging initialized ---
+2024-11-07T08:10:12+0100 INFO --- logging initialized ---
+2024-11-07T09:42:12+0100 INFO --- logging initialized ---
+2024-11-07T11:15:12+0100 INFO --- logging initialized ---
+2024-11-07T13:10:37+0100 INFO --- logging initialized ---
+2024-11-07T15:13:18+0100 INFO --- logging initialized ---
+2024-11-07T15:57:31+0100 INFO --- logging initialized ---
+2024-11-07T16:48:18+0100 INFO --- logging initialized ---
+2024-11-07T18:33:18+0100 INFO --- logging initialized ---
+2024-11-07T19:58:18+0100 INFO --- logging initialized ---
+2024-11-07T21:39:18+0100 INFO --- logging initialized ---
+2024-11-07T23:24:18+0100 INFO --- logging initialized ---
+2024-11-08T01:14:18+0100 INFO --- logging initialized ---
+2024-11-08T02:59:18+0100 INFO --- logging initialized ---
+2024-11-08T04:20:18+0100 INFO --- logging initialized ---
+2024-11-08T05:43:18+0100 INFO --- logging initialized ---
+2024-11-08T07:17:12+0100 INFO --- logging initialized ---
+2024-11-08T08:49:18+0100 INFO --- logging initialized ---
+2024-11-08T09:58:18+0100 INFO --- logging initialized ---
+2024-11-08T11:04:18+0100 INFO --- logging initialized ---
+2024-11-08T12:25:18+0100 INFO --- logging initialized ---
+2024-11-08T13:51:18+0100 INFO --- logging initialized ---
+2024-11-08T15:38:18+0100 INFO --- logging initialized ---
+2024-11-08T16:46:18+0100 INFO --- logging initialized ---
+2024-11-08T18:46:18+0100 INFO --- logging initialized ---
+2024-11-08T19:56:18+0100 INFO --- logging initialized ---
+2024-11-08T21:18:18+0100 INFO --- logging initialized ---
+2024-11-08T22:32:18+0100 INFO --- logging initialized ---
+2024-11-09T00:04:18+0100 INFO --- logging initialized ---
+2024-11-09T01:28:18+0100 INFO --- logging initialized ---
+2024-11-09T03:18:18+0100 INFO --- logging initialized ---
+2024-11-09T04:48:18+0100 INFO --- logging initialized ---
+2024-11-09T05:56:18+0100 INFO --- logging initialized ---
+2024-11-09T07:19:18+0100 INFO --- logging initialized ---
+2024-11-09T09:00:18+0100 INFO --- logging initialized ---
+2024-11-09T10:07:18+0100 INFO --- logging initialized ---
+2024-11-09T11:32:18+0100 INFO --- logging initialized ---
+2024-11-09T13:28:18+0100 INFO --- logging initialized ---
+2024-11-09T14:48:18+0100 INFO --- logging initialized ---
+2024-11-09T16:25:18+0100 INFO --- logging initialized ---
+2024-11-09T17:59:18+0100 INFO --- logging initialized ---
+2024-11-09T19:22:18+0100 INFO --- logging initialized ---
+2024-11-09T20:38:18+0100 INFO --- logging initialized ---
+2024-11-09T22:19:18+0100 INFO --- logging initialized ---
+2024-11-09T23:20:18+0100 INFO --- logging initialized ---
+2024-11-10T00:59:18+0100 INFO --- logging initialized ---
+2024-11-10T02:27:18+0100 INFO --- logging initialized ---
+2024-11-10T04:01:01+0100 INFO --- logging initialized ---
+2024-11-10T05:37:18+0100 INFO --- logging initialized ---
+2024-11-10T07:20:18+0100 INFO --- logging initialized ---
+2024-11-10T08:27:18+0100 INFO --- logging initialized ---
+2024-11-10T09:53:18+0100 INFO --- logging initialized ---
+2024-11-10T11:12:18+0100 INFO --- logging initialized ---
+2024-11-10T12:33:18+0100 INFO --- logging initialized ---
+2024-11-10T14:30:18+0100 INFO --- logging initialized ---
+2024-11-10T16:21:18+0100 INFO --- logging initialized ---
+2024-11-10T18:13:18+0100 INFO --- logging initialized ---
+2024-11-10T19:15:18+0100 INFO --- logging initialized ---
+2024-11-10T20:42:18+0100 INFO --- logging initialized ---
+2024-11-10T21:50:18+0100 INFO --- logging initialized ---
+2024-11-10T23:30:18+0100 INFO --- logging initialized ---
+2024-11-11T01:26:18+0100 INFO --- logging initialized ---
+2024-11-11T03:03:18+0100 INFO --- logging initialized ---
+2024-11-11T04:36:18+0100 INFO --- logging initialized ---
+2024-11-11T06:23:18+0100 INFO --- logging initialized ---
+2024-11-11T07:48:18+0100 INFO --- logging initialized ---
+2024-11-11T09:09:18+0100 INFO --- logging initialized ---
+2024-11-11T10:13:18+0100 INFO --- logging initialized ---
+2024-11-11T11:15:18+0100 INFO --- logging initialized ---
+2024-11-11T13:11:18+0100 INFO --- logging initialized ---
+2024-11-11T14:32:18+0100 INFO --- logging initialized ---
+2024-11-11T15:34:18+0100 INFO --- logging initialized ---
+2024-11-11T17:17:12+0100 INFO --- logging initialized ---
+2024-11-11T18:30:18+0100 INFO --- logging initialized ---
+2024-11-11T20:05:18+0100 INFO --- logging initialized ---
+2024-11-11T21:18:18+0100 INFO --- logging initialized ---
+2024-11-11T22:23:18+0100 INFO --- logging initialized ---
+2024-11-12T00:07:18+0100 INFO --- logging initialized ---
+2024-11-12T01:16:18+0100 INFO --- logging initialized ---
+2024-11-12T02:36:18+0100 INFO --- logging initialized ---
+2024-11-12T04:13:18+0100 INFO --- logging initialized ---
+2024-11-12T05:59:18+0100 INFO --- logging initialized ---
+2024-11-12T07:39:18+0100 INFO --- logging initialized ---
+2024-11-12T08:50:18+0100 INFO --- logging initialized ---
+2024-11-12T10:13:18+0100 INFO --- logging initialized ---
+2024-11-12T11:58:18+0100 INFO --- logging initialized ---
+2024-11-12T13:31:18+0100 INFO --- logging initialized ---
+2024-11-12T13:42:34+0100 INFO --- logging initialized ---
+2024-11-12T14:17:54+0100 SUBDEBUG Upgrade: grub2-common-1:2.02-158.el8_10.rocky.0.1.noarch
+2024-11-12T14:17:55+0100 SUBDEBUG Installed: bind-license-32:9.11.36-16.el8_10.2.noarch
+2024-11-12T14:17:55+0100 SUBDEBUG Upgrade: python3-setuptools-wheel-39.2.0-8.el8_10.noarch
+2024-11-12T14:17:55+0100 SUBDEBUG Upgrade: ca-certificates-2024.2.69_v8.0.303-80.0.el8_10.noarch
+2024-11-12T14:17:57+0100 SUBDEBUG Upgrade: grub2-pc-modules-1:2.02-158.el8_10.rocky.0.1.noarch
+2024-11-12T14:17:58+0100 SUBDEBUG Upgrade: tzdata-2024b-4.el8.noarch
+2024-11-12T14:17:59+0100 SUBDEBUG Upgrade: glibc-all-langpacks-2.28-251.el8_10.5.x86_64
+2024-11-12T14:18:06+0100 SUBDEBUG Upgrade: glibc-common-2.28-251.el8_10.5.x86_64
+2024-11-12T14:18:06+0100 SUBDEBUG Upgrade: glibc-gconv-extra-2.28-251.el8_10.5.x86_64
+2024-11-12T14:18:09+0100 SUBDEBUG Upgrade: glibc-2.28-251.el8_10.5.x86_64
+2024-11-12T14:18:11+0100 SUBDEBUG Upgrade: openssl-libs-1:1.1.1k-14.el8_10.x86_64
+2024-11-12T14:18:12+0100 SUBDEBUG Upgrade: krb5-libs-1.18.2-30.el8_10.x86_64
+2024-11-12T14:18:12+0100 SUBDEBUG Upgrade: systemd-libs-239-82.el8_10.2.x86_64
+2024-11-12T14:18:13+0100 SUBDEBUG Upgrade: openldap-2.4.46-20.el8_10.x86_64
+2024-11-12T14:18:13+0100 SUBDEBUG Upgrade: libldb-2.8.0-1.el8_10.x86_64
+2024-11-12T14:18:14+0100 SUBDEBUG Upgrade: libsss_idmap-2.9.4-4.el8_10.x86_64
+2024-11-12T14:18:14+0100 SUBDEBUG Upgrade: libsss_certmap-2.9.4-4.el8_10.x86_64
+2024-11-12T14:18:15+0100 SUBDEBUG Upgrade: gnutls-3.6.16-8.el8_10.3.x86_64
+2024-11-12T14:18:15+0100 SUBDEBUG Upgrade: glib2-2.56.4-165.el8_10.x86_64
+2024-11-12T14:18:17+0100 SUBDEBUG Upgrade: libxml2-2.9.7-18.el8_10.1.x86_64
+2024-11-12T14:18:17+0100 SUBDEBUG Upgrade: bzip2-libs-1.0.6-27.el8_10.x86_64
+2024-11-12T14:18:17+0100 SUBDEBUG Upgrade: expat-2.2.5-15.el8_10.x86_64
+2024-11-12T14:18:18+0100 SUBDEBUG Upgrade: polkit-libs-0.115-15.el8_10.2.x86_64
+2024-11-12T14:18:18+0100 SUBDEBUG Upgrade: cockpit-bridge-310.4-1.el8_10.x86_64
+2024-11-12T14:18:19+0100 SUBDEBUG Upgrade: libdnf-0.63.0-20.el8_10.x86_64
+2024-11-12T14:18:19+0100 SUBDEBUG Upgrade: libtirpc-1.1.4-12.el8_10.x86_64
+2024-11-12T14:18:20+0100 SUBDEBUG Upgrade: pam-1.3.1-34.el8_10.x86_64
+2024-11-12T14:18:21+0100 SUBDEBUG Upgrade: platform-python-setuptools-39.2.0-8.el8_10.noarch
+2024-11-12T14:18:22+0100 SUBDEBUG Upgrade: platform-python-3.6.8-67.el8_10.rocky.0.x86_64
+2024-11-12T14:18:22+0100 SUBDEBUG Upgrade: python3-libs-3.6.8-67.el8_10.rocky.0.x86_64
+2024-11-12T14:18:26+0100 SUBDEBUG Installed: fstrm-0.6.1-3.el8.x86_64
+2024-11-12T14:18:27+0100 SUBDEBUG Installed: protobuf-c-1.3.0-8.el8.x86_64
+2024-11-12T14:18:27+0100 SUBDEBUG Installed: python3-audit-3.1.2-1.el8.x86_64
+2024-11-12T14:18:27+0100 SUBDEBUG Installed: fontconfig-2.13.1-4.el8.x86_64
+2024-11-12T14:18:29+0100 SUBDEBUG Installed: gdk-pixbuf2-2.36.12-6.el8_10.x86_64
+2024-11-12T14:18:30+0100 SUBDEBUG Upgrade: openssh-8.0p1-25.el8_10.x86_64
+2024-11-12T14:18:30+0100 SUBDEBUG Installed: pixman-0.38.4-4.el8.x86_64
+2024-11-12T14:18:31+0100 SUBDEBUG Upgrade: grub2-tools-minimal-1:2.02-158.el8_10.rocky.0.1.x86_64
+2024-11-12T14:18:33+0100 SUBDEBUG Upgrade: policycoreutils-2.9-26.el8_10.x86_64
+2024-11-12T14:18:38+0100 SUBDEBUG Upgrade: grub2-tools-extra-1:2.02-158.el8_10.rocky.0.1.x86_64
+2024-11-12T14:18:41+0100 SUBDEBUG Installed: python3-psutil-5.4.3-11.el8.x86_64
+2024-11-12T14:18:42+0100 SUBDEBUG Installed: python3-libsemanage-2.9-9.el8_6.x86_64
+2024-11-12T14:18:42+0100 SUBDEBUG Installed: python3-libxml2-2.9.7-18.el8_10.1.x86_64
+2024-11-12T14:18:42+0100 SUBDEBUG Installed: python3-setools-4.3.0-5.el8.x86_64
+2024-11-12T14:18:43+0100 SUBDEBUG Upgrade: python3-libdnf-0.63.0-20.el8_10.x86_64
+2024-11-12T14:18:44+0100 SUBDEBUG Upgrade: python3-perf-4.18.0-553.27.1.el8_10.x86_64
+2024-11-12T14:18:44+0100 SUBDEBUG Installed: python3-distro-1.4.0-2.module+el8.10.0+1592+61442852.noarch
+2024-11-12T14:18:45+0100 SUBDEBUG Installed: python3-ptyprocess-0.5.2-4.el8.noarch
+2024-11-12T14:18:45+0100 SUBDEBUG Installed: python3-pexpect-4.3.1-3.el8.noarch
+2024-11-12T14:18:46+0100 SUBDEBUG Installed: python3-pydbus-0.6.0-5.el8.noarch
+2024-11-12T14:18:46+0100 SUBDEBUG Installed: python3-ply-3.9-9.el8.noarch
+2024-11-12T14:18:46+0100 SUBDEBUG Installed: python3-bind-32:9.11.36-16.el8_10.2.noarch
+2024-11-12T14:18:47+0100 SUBDEBUG Upgrade: python3-firewall-0.9.11-9.el8_10.noarch
+2024-11-12T14:18:47+0100 SUBDEBUG Upgrade: python3-setuptools-39.2.0-8.el8_10.noarch
+2024-11-12T14:18:48+0100 SUBDEBUG Upgrade: sos-4.7.2-2.el8_10.noarch
+2024-11-12T14:18:49+0100 SUBDEBUG Upgrade: python3-sssdconfig-2.9.4-4.el8_10.noarch
+2024-11-12T14:18:49+0100 SUBDEBUG Installed: libsoup-2.62.3-5.el8.x86_64
+2024-11-12T14:18:50+0100 SUBDEBUG Installed: PackageKit-glib-1.1.12-7.el8.x86_64
+2024-11-12T14:18:50+0100 SUBDEBUG Installed: sscg-3.0.0-7.el8.x86_64
+2024-11-12T14:18:51+0100 SUBDEBUG Upgrade: openssl-1:1.1.1k-14.el8_10.x86_64
+2024-11-12T14:18:51+0100 SUBDEBUG Upgrade: cockpit-ws-310.4-1.el8_10.x86_64
+2024-11-12T14:19:21+0100 SUBDEBUG Installed: libXau-1.0.9-3.el8.x86_64
+2024-11-12T14:19:21+0100 SUBDEBUG Installed: libxcb-1.13.1-1.el8.x86_64
+2024-11-12T14:19:22+0100 SUBDEBUG Installed: checkpolicy-2.9-1.el8.x86_64
+2024-11-12T14:19:22+0100 SUBDEBUG Installed: python3-policycoreutils-2.9-26.el8_10.noarch
+2024-11-12T14:19:23+0100 SUBDEBUG Installed: policycoreutils-python-utils-2.9-26.el8_10.noarch
+2024-11-12T14:19:24+0100 SUBDEBUG Installed: libstemmer-0-10.585svn.el8.x86_64
+2024-11-12T14:19:24+0100 SUBDEBUG Installed: libappstream-glib-0.7.14-3.el8.x86_64
+2024-11-12T14:19:25+0100 SUBDEBUG Upgrade: avahi-libs-0.7-27.el8_10.1.x86_64
+2024-11-12T14:19:25+0100 SUBDEBUG Upgrade: c-ares-1.13.0-11.el8_10.x86_64
+2024-11-12T14:19:25+0100 SUBDEBUG Upgrade: grub2-tools-1:2.02-158.el8_10.rocky.0.1.x86_64
+2024-11-12T14:19:26+0100 SUBDEBUG Upgrade: grub2-pc-1:2.02-158.el8_10.rocky.0.1.x86_64
+2024-11-12T14:19:27+0100 SUBDEBUG Upgrade: kernel-tools-libs-4.18.0-553.27.1.el8_10.x86_64
+2024-11-12T14:19:27+0100 SUBDEBUG Upgrade: kernel-tools-4.18.0-553.27.1.el8_10.x86_64
+2024-11-12T14:19:28+0100 SUBDEBUG Upgrade: libipa_hbac-2.9.4-4.el8_10.x86_64
+2024-11-12T14:19:28+0100 SUBDEBUG Upgrade: libnghttp2-1.33.0-6.el8_10.1.x86_64
+2024-11-12T14:19:29+0100 SUBDEBUG Upgrade: libcurl-7.61.1-34.el8_10.2.x86_64
+2024-11-12T14:19:29+0100 SUBDEBUG Upgrade: libsss_autofs-2.9.4-4.el8_10.x86_64
+2024-11-12T14:19:29+0100 SUBDEBUG Upgrade: libsss_nss_idmap-2.9.4-4.el8_10.x86_64
+2024-11-12T14:19:30+0100 SUBDEBUG Upgrade: sssd-client-2.9.4-4.el8_10.x86_64
+2024-11-12T14:19:30+0100 SUBDEBUG Upgrade: libsss_sudo-2.9.4-4.el8_10.x86_64
+2024-11-12T14:19:31+0100 SUBDEBUG Upgrade: sssd-nfs-idmap-2.9.4-4.el8_10.x86_64
+2024-11-12T14:19:31+0100 SUBDEBUG Upgrade: rocky-gpg-keys-8.10-1.9.el8.noarch
+2024-11-12T14:19:31+0100 SUBDEBUG Upgrade: rocky-release-8.10-1.9.el8.noarch
+2024-11-12T14:19:31+0100 SUBDEBUG Upgrade: rocky-repos-8.10-1.9.el8.noarch
+2024-11-12T14:19:32+0100 SUBDEBUG Upgrade: linux-firmware-20241014-125.git06bad2f1.el8_10.noarch
+2024-11-12T14:20:16+0100 SUBDEBUG Upgrade: firewalld-filesystem-0.9.11-9.el8_10.noarch
+2024-11-12T14:20:16+0100 SUBDEBUG Installed: xkeyboard-config-2.28-1.el8.noarch
+2024-11-12T14:20:17+0100 SUBDEBUG Installed: libxkbcommon-0.9.1-1.el8.x86_64
+2024-11-12T14:20:17+0100 SUBDEBUG Upgrade: systemd-pam-239-82.el8_10.2.x86_64
+2024-11-12T14:20:17+0100 SUBDEBUG Upgrade: systemd-239-82.el8_10.2.x86_64
+2024-11-12T14:20:19+0100 SUBDEBUG Upgrade: sssd-common-2.9.4-4.el8_10.x86_64
+2024-11-12T14:20:20+0100 SUBDEBUG Upgrade: sssd-krb5-common-2.9.4-4.el8_10.x86_64
+2024-11-12T14:20:21+0100 SUBDEBUG Upgrade: polkit-0.115-15.el8_10.2.x86_64
+2024-11-12T14:20:21+0100 SUBDEBUG Upgrade: samba-common-4.19.4-5.el8_10.noarch
+2024-11-12T14:20:22+0100 SUBDEBUG Upgrade: libwbclient-4.19.4-5.el8_10.x86_64
+2024-11-12T14:20:22+0100 SUBDEBUG Upgrade: samba-client-libs-4.19.4-5.el8_10.x86_64
+2024-11-12T14:20:23+0100 SUBDEBUG Upgrade: samba-common-libs-4.19.4-5.el8_10.x86_64
+2024-11-12T14:20:24+0100 SUBDEBUG Upgrade: sssd-common-pac-2.9.4-4.el8_10.x86_64
+2024-11-12T14:20:24+0100 SUBDEBUG Installed: PackageKit-1.1.12-7.el8.x86_64
+2024-11-12T14:20:25+0100 SUBDEBUG Upgrade: libsmbclient-4.19.4-5.el8_10.x86_64
+2024-11-12T14:20:25+0100 SUBDEBUG Upgrade: sssd-krb5-2.9.4-4.el8_10.x86_64
+2024-11-12T14:20:26+0100 SUBDEBUG Upgrade: sssd-ldap-2.9.4-4.el8_10.x86_64
+2024-11-12T14:20:26+0100 SUBDEBUG Upgrade: sssd-proxy-2.9.4-4.el8_10.x86_64
+2024-11-12T14:20:27+0100 SUBDEBUG Upgrade: kexec-tools-2.0.26-14.el8_10.2.x86_64
+2024-11-12T14:20:27+0100 SUBDEBUG Upgrade: systemd-udev-239-82.el8_10.2.x86_64
+2024-11-12T14:20:29+0100 SUBDEBUG Installed: kernel-core-4.18.0-553.27.1.el8_10.x86_64
+2024-11-12T14:20:35+0100 SUBDEBUG Installed: kernel-modules-4.18.0-553.27.1.el8_10.x86_64
+2024-11-12T14:20:42+0100 SUBDEBUG Installed: tracer-common-1.1-1.el8.noarch
+2024-11-12T14:20:46+0100 SUBDEBUG Installed: python3-tracer-1.1-1.el8.noarch
+2024-11-12T14:20:48+0100 SUBDEBUG Installed: cockpit-packagekit-310.3-3.el8_10.noarch
+2024-11-12T14:20:48+0100 SUBDEBUG Installed: libX11-common-1.6.8-9.el8_10.noarch
+2024-11-12T14:20:49+0100 SUBDEBUG Installed: libX11-1.6.8-9.el8_10.x86_64
+2024-11-12T14:20:49+0100 SUBDEBUG Installed: libXext-1.3.4-1.el8.x86_64
+2024-11-12T14:20:50+0100 SUBDEBUG Installed: libXrender-0.9.10-7.el8.x86_64
+2024-11-12T14:20:50+0100 SUBDEBUG Installed: cairo-1.15.12-6.el8.x86_64
+2024-11-12T14:20:51+0100 SUBDEBUG Installed: cairo-gobject-1.15.12-6.el8.x86_64
+2024-11-12T14:20:51+0100 SUBDEBUG Installed: python3-cairo-1.16.3-6.el8.x86_64
+2024-11-12T14:20:51+0100 SUBDEBUG Installed: python3-gobject-3.28.3-2.el8.x86_64
+2024-11-12T14:20:51+0100 SUBDEBUG Installed: setroubleshoot-plugins-3.3.14-1.el8.noarch
+2024-11-12T14:20:52+0100 SUBDEBUG Installed: setroubleshoot-server-3.3.26-6.el8.x86_64
+2024-11-12T14:20:54+0100 SUBDEBUG Upgrade: cockpit-system-310.4-1.el8_10.noarch
+2024-11-12T14:20:55+0100 SUBDEBUG Installed: geolite2-country-20180605-1.el8.noarch
+2024-11-12T14:20:56+0100 SUBDEBUG Installed: geolite2-city-20180605-1.el8.noarch
+2024-11-12T14:20:58+0100 SUBDEBUG Installed: libmaxminddb-1.2.0-10.el8_9.1.x86_64
+2024-11-12T14:20:59+0100 SUBDEBUG Installed: bind-libs-lite-32:9.11.36-16.el8_10.2.x86_64
+2024-11-12T14:20:59+0100 SUBDEBUG Installed: bind-libs-32:9.11.36-16.el8_10.2.x86_64
+2024-11-12T14:21:01+0100 SUBDEBUG Installed: bind-utils-32:9.11.36-16.el8_10.2.x86_64
+2024-11-12T14:21:03+0100 SUBDEBUG Upgrade: sssd-ad-2.9.4-4.el8_10.x86_64
+2024-11-12T14:21:03+0100 SUBDEBUG Upgrade: sssd-ipa-2.9.4-4.el8_10.x86_64
+2024-11-12T14:21:04+0100 SUBDEBUG Upgrade: sssd-2.9.4-4.el8_10.x86_64
+2024-11-12T14:21:04+0100 SUBDEBUG Upgrade: cockpit-310.4-1.el8_10.x86_64
+2024-11-12T14:21:04+0100 SUBDEBUG Installed: kernel-4.18.0-553.27.1.el8_10.x86_64
+2024-11-12T14:21:05+0100 SUBDEBUG Upgrade: kmod-kvdo-6.2.8.7-94.el8.x86_64
+2024-11-12T14:21:05+0100 SUBDEBUG Upgrade: tuned-2.22.1-4.el8_10.1.noarch
+2024-11-12T14:21:06+0100 SUBDEBUG Upgrade: sssd-kcm-2.9.4-4.el8_10.x86_64
+2024-11-12T14:21:07+0100 SUBDEBUG Upgrade: chrony-4.5-2.el8_10.x86_64
+2024-11-12T14:21:07+0100 SUBDEBUG Upgrade: firewalld-0.9.11-9.el8_10.noarch
+2024-11-12T14:21:09+0100 SUBDEBUG Upgrade: microcode_ctl-4:20240910-1.el8_10.x86_64
+2024-11-12T14:21:15+0100 SUBDEBUG Upgrade: openssh-server-8.0p1-25.el8_10.x86_64
+2024-11-12T14:21:16+0100 SUBDEBUG Upgrade: curl-7.61.1-34.el8_10.2.x86_64
+2024-11-12T14:21:16+0100 SUBDEBUG Upgrade: python3-hawkey-0.63.0-20.el8_10.x86_64
+2024-11-12T14:21:17+0100 SUBDEBUG Upgrade: openssh-clients-8.0p1-25.el8_10.x86_64
+2024-11-12T14:21:17+0100 SUBDEBUG Upgrade: blktrace-1.2.0-11.el8_10.x86_64
+2024-11-12T14:21:18+0100 SUBDEBUG Upgrade: python3-idna-2.5-7.el8_10.noarch
+2024-11-12T14:21:18+0100 SUBDEBUG Upgrade: python3-urllib3-1.24.2-8.el8_10.noarch
+2024-11-12T14:21:19+0100 SUBDEBUG Upgrade: libuser-0.62-26.el8_10.x86_64
+2024-11-12T14:21:20+0100 SUBDEBUG Upgrade: bzip2-1.0.6-27.el8_10.x86_64
+2024-11-12T14:21:20+0100 SUBDEBUG Installed: grub2-tools-efi-1:2.02-158.el8_10.rocky.0.1.x86_64
+2024-11-12T14:21:21+0100 SUBDEBUG Upgrade: bpftool-4.18.0-553.27.1.el8_10.x86_64
+2024-11-12T14:21:21+0100 SUBDEBUG Upgrade: findutils-1:4.6.0-23.el8_10.x86_64
+2024-11-12T14:21:22+0100 SUBDEBUG Upgrade: fuse-libs-2.9.7-19.el8.x86_64
+2024-11-12T14:21:23+0100 SUBDEBUG Upgrade: less-530-3.el8_10.x86_64
+2024-11-12T14:21:23+0100 SUBDEBUG Upgrade: libndp-1.7-7.el8_10.x86_64
+2024-11-12T14:21:23+0100 SUBDEBUG Upgrade: libproxy-0.4.15-5.5.el8_10.x86_64
+2024-11-12T14:21:24+0100 SUBDEBUG Upgrade: nano-2.9.8-3.el8_10.x86_64
+2024-11-12T14:21:25+0100 SUBDEBUG Upgrade: libertas-usb8388-firmware-2:20241014-125.git06bad2f1.el8_10.noarch
+2024-11-12T14:21:26+0100 SUBDEBUG Upgrade: iwl7260-firmware-1:25.30.13.0-125.el8_10.1.noarch
+2024-11-12T14:21:32+0100 SUBDEBUG Upgrade: iwl6050-firmware-41.28.5.1-125.el8_10.1.noarch
+2024-11-12T14:21:32+0100 SUBDEBUG Upgrade: iwl6000g2b-firmware-18.168.6.1-125.el8_10.1.noarch
+2024-11-12T14:21:32+0100 SUBDEBUG Upgrade: iwl6000g2a-firmware-18.168.6.1-125.el8_10.1.noarch
+2024-11-12T14:21:33+0100 SUBDEBUG Upgrade: iwl6000-firmware-9.221.4.1-125.el8_10.1.noarch
+2024-11-12T14:21:33+0100 SUBDEBUG Upgrade: iwl5150-firmware-8.24.2.2-125.el8_10.1.noarch
+2024-11-12T14:21:33+0100 SUBDEBUG Upgrade: iwl5000-firmware-8.83.5.1_1-125.el8_10.1.noarch
+2024-11-12T14:21:34+0100 SUBDEBUG Upgrade: iwl3160-firmware-1:25.30.13.0-125.el8_10.1.noarch
+2024-11-12T14:21:34+0100 SUBDEBUG Upgrade: iwl2030-firmware-18.168.6.1-125.el8_10.1.noarch
+2024-11-12T14:21:34+0100 SUBDEBUG Upgrade: iwl2000-firmware-18.168.6.1-125.el8_10.1.noarch
+2024-11-12T14:21:34+0100 SUBDEBUG Upgrade: iwl135-firmware-18.168.6.1-125.el8_10.1.noarch
+2024-11-12T14:21:35+0100 SUBDEBUG Upgrade: iwl105-firmware-18.168.6.1-125.el8_10.1.noarch
+2024-11-12T14:21:35+0100 SUBDEBUG Upgrade: iwl1000-firmware-1:39.31.5.1-125.el8_10.1.noarch
+2024-11-12T14:21:35+0100 SUBDEBUG Upgrade: iwl100-firmware-39.31.5.1-125.el8_10.1.noarch
+2024-11-12T14:21:36+0100 SUBDEBUG Upgraded: openssh-server-8.0p1-24.el8.x86_64
+2024-11-12T14:21:36+0100 SUBDEBUG Upgraded: sssd-kcm-2.9.4-3.el8_10.x86_64
+2024-11-12T14:21:36+0100 SUBDEBUG Upgraded: systemd-udev-239-82.el8.x86_64
+2024-11-12T14:21:37+0100 SUBDEBUG Upgraded: openssh-clients-8.0p1-24.el8.x86_64
+2024-11-12T14:21:38+0100 SUBDEBUG Upgraded: libuser-0.62-25.el8.x86_64
+2024-11-12T14:21:39+0100 SUBDEBUG Upgraded: chrony-4.5-1.el8.x86_64
+2024-11-12T14:21:40+0100 SUBDEBUG Upgraded: openssh-8.0p1-24.el8.x86_64
+2024-11-12T14:21:40+0100 SUBDEBUG Upgraded: bpftool-4.18.0-553.el8_10.x86_64
+2024-11-12T14:21:40+0100 SUBDEBUG Upgraded: python3-hawkey-0.63.0-19.el8.x86_64
+2024-11-12T14:21:41+0100 SUBDEBUG Upgraded: python3-libdnf-0.63.0-19.el8.x86_64
+2024-11-12T14:21:41+0100 SUBDEBUG Upgraded: libdnf-0.63.0-19.el8.x86_64
+2024-11-12T14:21:43+0100 SUBDEBUG Upgraded: fuse-libs-2.9.7-18.el8.x86_64
+2024-11-12T14:21:43+0100 SUBDEBUG Upgraded: blktrace-1.2.0-10.el8.x86_64
+2024-11-12T14:21:44+0100 SUBDEBUG Upgraded: libxml2-2.9.7-18.el8.x86_64
+2024-11-12T14:21:45+0100 SUBDEBUG Upgraded: curl-7.61.1-34.el8.x86_64
+2024-11-12T14:21:45+0100 SUBDEBUG Upgraded: libcurl-7.61.1-34.el8.x86_64
+2024-11-12T14:21:46+0100 SUBDEBUG Upgraded: libproxy-0.4.15-5.2.el8.x86_64
+2024-11-12T14:21:46+0100 SUBDEBUG Upgraded: findutils-1:4.6.0-22.el8.x86_64
+2024-11-12T14:21:46+0100 SUBDEBUG Upgraded: nano-2.9.8-1.el8.x86_64
+2024-11-12T14:21:47+0100 SUBDEBUG Upgraded: tuned-2.22.1-4.el8_10.noarch
+2024-11-12T14:21:48+0100 SUBDEBUG Upgraded: polkit-0.115-15.el8.x86_64
+2024-11-12T14:21:48+0100 SUBDEBUG Upgraded: kernel-tools-4.18.0-553.el8_10.x86_64
+2024-11-12T14:21:49+0100 SUBDEBUG Upgraded: python3-perf-4.18.0-553.el8_10.x86_64
+2024-11-12T14:21:50+0100 SUBDEBUG Upgraded: libndp-1.7-6.el8.x86_64
+2024-11-12T14:21:51+0100 SUBDEBUG Upgraded: less-530-2.el8_9.x86_64
+2024-11-12T14:21:52+0100 SUBDEBUG Upgraded: bzip2-1.0.6-26.el8.x86_64
+2024-11-12T14:21:52+0100 SUBDEBUG Upgraded: sssd-2.9.4-3.el8_10.x86_64
+2024-11-12T14:21:52+0100 SUBDEBUG Upgraded: firewalld-0.9.11-4.el8.noarch
+2024-11-12T14:21:54+0100 SUBDEBUG Upgraded: grub2-pc-1:2.02-156.el8.rocky.0.1.x86_64
+2024-11-12T14:21:54+0100 SUBDEBUG Upgraded: microcode_ctl-4:20230808-2.20231009.1.el8_9.x86_64
+2024-11-12T14:21:55+0100 SUBDEBUG Upgraded: cockpit-310.3-1.el8_10.x86_64
+2024-11-12T14:21:55+0100 SUBDEBUG Upgraded: cockpit-system-310.3-1.el8_10.noarch
+2024-11-12T14:21:56+0100 SUBDEBUG Upgraded: sos-4.7.1-2.el8_10.noarch
+2024-11-12T14:21:56+0100 SUBDEBUG Upgraded: python3-setuptools-39.2.0-7.el8.noarch
+2024-11-12T14:21:56+0100 SUBDEBUG Upgraded: python3-urllib3-1.24.2-7.el8.noarch
+2024-11-12T14:21:57+0100 SUBDEBUG Upgraded: grub2-pc-modules-1:2.02-156.el8.rocky.0.1.noarch
+2024-11-12T14:21:57+0100 SUBDEBUG Upgraded: python3-firewall-0.9.11-4.el8.noarch
+2024-11-12T14:22:00+0100 SUBDEBUG Upgraded: python3-sssdconfig-2.9.4-3.el8_10.noarch
+2024-11-12T14:22:01+0100 SUBDEBUG Upgraded: rocky-release-8.10-1.7.el8.noarch
+2024-11-12T14:22:02+0100 SUBDEBUG Upgraded: rocky-repos-8.10-1.7.el8.noarch
+2024-11-12T14:22:02+0100 SUBDEBUG Upgraded: python3-idna-2.5-5.el8.noarch
+2024-11-12T14:22:03+0100 SUBDEBUG Upgraded: rocky-gpg-keys-8.10-1.7.el8.noarch
+2024-11-12T14:22:03+0100 SUBDEBUG Upgraded: firewalld-filesystem-0.9.11-4.el8.noarch
+2024-11-12T14:22:03+0100 SUBDEBUG Upgraded: linux-firmware-20240111-121.gitb3132c18.el8.noarch
+2024-11-12T14:22:04+0100 SUBDEBUG Upgraded: libertas-usb8388-firmware-2:20240111-121.gitb3132c18.el8.noarch
+2024-11-12T14:22:04+0100 SUBDEBUG Upgraded: kmod-kvdo-6.2.8.7-92.el8.x86_64
+2024-11-12T14:22:20+0100 SUBDEBUG Upgraded: iwl7260-firmware-1:25.30.13.0-121.el8.1.noarch
+2024-11-12T14:22:21+0100 SUBDEBUG Upgraded: iwl6050-firmware-41.28.5.1-121.el8.1.noarch
+2024-11-12T14:22:21+0100 SUBDEBUG Upgraded: iwl6000g2b-firmware-18.168.6.1-121.el8.1.noarch
+2024-11-12T14:22:21+0100 SUBDEBUG Upgraded: iwl6000g2a-firmware-18.168.6.1-121.el8.1.noarch
+2024-11-12T14:22:21+0100 SUBDEBUG Upgraded: iwl6000-firmware-9.221.4.1-121.el8.1.noarch
+2024-11-12T14:22:22+0100 SUBDEBUG Upgraded: iwl5150-firmware-8.24.2.2-121.el8.1.noarch
+2024-11-12T14:22:22+0100 SUBDEBUG Upgraded: iwl5000-firmware-8.83.5.1_1-121.el8.1.noarch
+2024-11-12T14:22:22+0100 SUBDEBUG Upgraded: iwl3160-firmware-1:25.30.13.0-121.el8.1.noarch
+2024-11-12T14:22:22+0100 SUBDEBUG Upgraded: iwl2030-firmware-18.168.6.1-121.el8.1.noarch
+2024-11-12T14:22:22+0100 SUBDEBUG Upgraded: iwl2000-firmware-18.168.6.1-121.el8.1.noarch
+2024-11-12T14:22:23+0100 SUBDEBUG Upgraded: iwl135-firmware-18.168.6.1-121.el8.1.noarch
+2024-11-12T14:22:23+0100 SUBDEBUG Upgraded: iwl105-firmware-18.168.6.1-121.el8.1.noarch
+2024-11-12T14:22:23+0100 SUBDEBUG Upgraded: iwl1000-firmware-1:39.31.5.1-121.el8.1.noarch
+2024-11-12T14:22:23+0100 SUBDEBUG Upgraded: iwl100-firmware-39.31.5.1-121.el8.1.noarch
+2024-11-12T14:22:23+0100 SUBDEBUG Upgraded: sssd-ipa-2.9.4-3.el8_10.x86_64
+2024-11-12T14:22:24+0100 SUBDEBUG Upgraded: sssd-ad-2.9.4-3.el8_10.x86_64
+2024-11-12T14:22:24+0100 SUBDEBUG Upgraded: libsmbclient-4.19.4-3.el8.x86_64
+2024-11-12T14:22:24+0100 SUBDEBUG Upgraded: cockpit-ws-310.3-1.el8_10.x86_64
+2024-11-12T14:22:25+0100 SUBDEBUG Upgraded: sssd-common-pac-2.9.4-3.el8_10.x86_64
+2024-11-12T14:22:25+0100 SUBDEBUG Upgraded: samba-client-libs-4.19.4-3.el8.x86_64
+2024-11-12T14:22:26+0100 SUBDEBUG Upgraded: samba-common-libs-4.19.4-3.el8.x86_64
+2024-11-12T14:22:26+0100 SUBDEBUG Upgraded: libwbclient-4.19.4-3.el8.x86_64
+2024-11-12T14:22:26+0100 SUBDEBUG Upgraded: sssd-proxy-2.9.4-3.el8_10.x86_64
+2024-11-12T14:22:27+0100 SUBDEBUG Upgraded: sssd-ldap-2.9.4-3.el8_10.x86_64
+2024-11-12T14:22:27+0100 SUBDEBUG Upgraded: cockpit-bridge-310.3-1.el8_10.x86_64
+2024-11-12T14:22:27+0100 SUBDEBUG Upgraded: openssl-1:1.1.1k-12.el8_9.x86_64
+2024-11-12T14:22:28+0100 SUBDEBUG Upgraded: kexec-tools-2.0.26-14.el8.x86_64
+2024-11-12T14:22:51+0100 SUBDEBUG Upgraded: sssd-krb5-2.9.4-3.el8_10.x86_64
+2024-11-12T14:22:52+0100 SUBDEBUG Upgraded: sssd-krb5-common-2.9.4-3.el8_10.x86_64
+2024-11-12T14:22:52+0100 SUBDEBUG Upgraded: sssd-common-2.9.4-3.el8_10.x86_64
+2024-11-12T14:22:53+0100 SUBDEBUG Upgraded: sssd-client-2.9.4-3.el8_10.x86_64
+2024-11-12T14:22:53+0100 SUBDEBUG Upgraded: polkit-libs-0.115-15.el8.x86_64
+2024-11-12T14:22:53+0100 SUBDEBUG Upgraded: glib2-2.56.4-164.el8.x86_64
+2024-11-12T14:22:54+0100 SUBDEBUG Upgraded: libsss_nss_idmap-2.9.4-3.el8_10.x86_64
+2024-11-12T14:22:54+0100 SUBDEBUG Upgraded: libsss_certmap-2.9.4-3.el8_10.x86_64
+2024-11-12T14:22:55+0100 SUBDEBUG Upgraded: python3-libs-3.6.8-62.el8_10.rocky.0.x86_64
+2024-11-12T14:22:55+0100 SUBDEBUG Upgraded: platform-python-3.6.8-62.el8_10.rocky.0.x86_64
+2024-11-12T14:22:56+0100 SUBDEBUG Upgraded: libsss_idmap-2.9.4-3.el8_10.x86_64
+2024-11-12T14:22:56+0100 SUBDEBUG Upgraded: c-ares-1.13.0-10.el8.x86_64
+2024-11-12T14:22:56+0100 SUBDEBUG Upgraded: libldb-2.8.0-0.el8.x86_64
+2024-11-12T14:22:57+0100 SUBDEBUG Upgraded: openldap-2.4.46-18.el8.x86_64
+2024-11-12T14:22:57+0100 SUBDEBUG Upgraded: libsss_sudo-2.9.4-3.el8_10.x86_64
+2024-11-12T14:22:58+0100 SUBDEBUG Upgraded: avahi-libs-0.7-27.el8.x86_64
+2024-11-12T14:22:58+0100 SUBDEBUG Upgraded: sssd-nfs-idmap-2.9.4-3.el8_10.x86_64
+2024-11-12T14:22:58+0100 SUBDEBUG Upgraded: libipa_hbac-2.9.4-3.el8_10.x86_64
+2024-11-12T14:22:59+0100 SUBDEBUG Upgraded: grub2-tools-extra-1:2.02-156.el8.rocky.0.1.x86_64
+2024-11-12T14:22:59+0100 SUBDEBUG Upgraded: grub2-tools-minimal-1:2.02-156.el8.rocky.0.1.x86_64
+2024-11-12T14:22:59+0100 SUBDEBUG Upgraded: expat-2.2.5-13.el8_10.x86_64
+2024-11-12T14:23:00+0100 SUBDEBUG Upgraded: libsss_autofs-2.9.4-3.el8_10.x86_64
+2024-11-12T14:23:00+0100 SUBDEBUG Upgraded: policycoreutils-2.9-25.el8.x86_64
+2024-11-12T14:23:00+0100 SUBDEBUG Upgraded: grub2-tools-1:2.02-156.el8.rocky.0.1.x86_64
+2024-11-12T14:23:01+0100 SUBDEBUG Upgraded: libnghttp2-1.33.0-5.el8_8.x86_64
+2024-11-12T14:23:01+0100 SUBDEBUG Upgraded: kernel-tools-libs-4.18.0-553.el8_10.x86_64
+2024-11-12T14:23:02+0100 SUBDEBUG Upgraded: samba-common-4.19.4-3.el8.noarch
+2024-11-12T14:23:02+0100 SUBDEBUG Upgraded: grub2-common-1:2.02-156.el8.rocky.0.1.noarch
+2024-11-12T14:23:02+0100 SUBDEBUG Upgraded: platform-python-setuptools-39.2.0-7.el8.noarch
+2024-11-12T14:23:02+0100 SUBDEBUG Upgraded: python3-setuptools-wheel-39.2.0-7.el8.noarch
+2024-11-12T14:23:02+0100 SUBDEBUG Upgraded: systemd-239-82.el8.x86_64
+2024-11-12T14:23:03+0100 SUBDEBUG Upgraded: systemd-pam-239-82.el8.x86_64
+2024-11-12T14:23:03+0100 SUBDEBUG Upgraded: systemd-libs-239-82.el8.x86_64
+2024-11-12T14:23:04+0100 SUBDEBUG Upgraded: pam-1.3.1-33.el8.x86_64
+2024-11-12T14:23:04+0100 SUBDEBUG Upgraded: libtirpc-1.1.4-11.el8.x86_64
+2024-11-12T14:23:05+0100 SUBDEBUG Upgraded: krb5-libs-1.18.2-27.el8_10.x86_64
+2024-11-12T14:23:05+0100 SUBDEBUG Upgraded: openssl-libs-1:1.1.1k-12.el8_9.x86_64
+2024-11-12T14:23:06+0100 SUBDEBUG Upgraded: gnutls-3.6.16-8.el8_10.2.x86_64
+2024-11-12T14:23:06+0100 SUBDEBUG Upgraded: bzip2-libs-1.0.6-26.el8.x86_64
+2024-11-12T14:23:06+0100 SUBDEBUG Upgraded: ca-certificates-2023.2.60_v7.0.306-80.0.el8_8.noarch
+2024-11-12T14:23:07+0100 SUBDEBUG Upgraded: glibc-gconv-extra-2.28-251.el8_10.2.x86_64
+2024-11-12T14:23:07+0100 SUBDEBUG Upgraded: glibc-common-2.28-251.el8_10.2.x86_64
+2024-11-12T14:23:07+0100 SUBDEBUG Upgraded: glibc-2.28-251.el8_10.2.x86_64
+2024-11-12T14:23:08+0100 SUBDEBUG Upgraded: glibc-all-langpacks-2.28-251.el8_10.2.x86_64
+2024-11-12T14:23:08+0100 SUBDEBUG Upgraded: tzdata-2024a-1.el8.noarch
+2024-11-12T14:34:42+0100 INFO --- logging initialized ---
+2024-11-12T14:34:44+0100 INFO --- logging initialized ---
+2024-11-12T14:34:45+0100 INFO --- logging initialized ---
+2024-11-12T14:34:47+0100 INFO --- logging initialized ---
+2024-11-12T14:34:53+0100 INFO --- logging initialized ---
+2024-11-12T14:34:54+0100 INFO --- logging initialized ---
+2024-11-12T14:34:56+0100 INFO --- logging initialized ---
+2024-11-12T14:34:58+0100 INFO --- logging initialized ---
+2024-11-12T14:35:00+0100 INFO --- logging initialized ---
+2024-11-12T14:35:02+0100 INFO --- logging initialized ---
+2024-11-12T14:35:03+0100 INFO --- logging initialized ---
+2024-11-12T14:37:41+0100 INFO --- logging initialized ---
+2024-11-12T14:37:43+0100 SUBDEBUG Installed: ipcalc-0.2.4-4.el8.x86_64
+2024-11-12T14:37:44+0100 SUBDEBUG Installed: dhcp-libs-12:4.3.6-50.el8_10.x86_64
+2024-11-12T14:37:44+0100 SUBDEBUG Installed: dhcp-common-12:4.3.6-50.el8_10.noarch
+2024-11-12T14:37:44+0100 SUBDEBUG Installed: bind-export-libs-32:9.11.36-16.el8_10.2.x86_64
+2024-11-12T14:37:45+0100 SUBDEBUG Installed: dhcp-client-12:4.3.6-50.el8_10.x86_64
+2024-11-12T14:49:18+0100 INFO --- logging initialized ---
+2024-11-12T15:51:18+0100 INFO --- logging initialized ---
+2024-11-12T17:27:18+0100 INFO --- logging initialized ---
+2024-11-12T19:20:18+0100 INFO --- logging initialized ---
+2024-11-12T21:06:18+0100 INFO --- logging initialized ---
+2024-11-12T22:35:18+0100 INFO --- logging initialized ---
+2024-11-13T00:18:18+0100 INFO --- logging initialized ---
+2024-11-13T02:06:18+0100 INFO --- logging initialized ---
+2024-11-13T04:03:18+0100 INFO --- logging initialized ---
+2024-11-13T05:36:18+0100 INFO --- logging initialized ---
+2024-11-13T07:29:18+0100 INFO --- logging initialized ---
+2024-11-13T09:00:18+0100 INFO --- logging initialized ---
+2024-11-13T10:13:18+0100 INFO --- logging initialized ---
+2024-11-13T11:21:18+0100 INFO --- logging initialized ---
+2024-11-13T12:57:18+0100 INFO --- logging initialized ---
+2024-11-13T14:15:18+0100 INFO --- logging initialized ---
+2024-11-13T15:51:18+0100 INFO --- logging initialized ---
+2024-11-13T17:22:18+0100 INFO --- logging initialized ---
+2024-11-13T18:33:18+0100 INFO --- logging initialized ---
+2024-11-13T19:42:18+0100 INFO --- logging initialized ---
+2024-11-13T21:30:18+0100 INFO --- logging initialized ---
+2024-11-13T23:29:18+0100 INFO --- logging initialized ---
+2024-11-14T01:25:18+0100 INFO --- logging initialized ---
+2024-11-14T03:04:18+0100 INFO --- logging initialized ---
+2024-11-14T04:47:13+0100 INFO --- logging initialized ---
+2024-11-14T06:20:18+0100 INFO --- logging initialized ---
+2024-11-14T08:17:12+0100 INFO --- logging initialized ---
+2024-11-14T09:57:18+0100 INFO --- logging initialized ---
+2024-11-14T10:37:11+0100 INFO --- logging initialized ---
+2024-11-14T10:37:27+0100 INFO --- logging initialized ---
+2024-11-14T10:58:18+0100 INFO --- logging initialized ---
+2024-11-14T12:08:18+0100 INFO --- logging initialized ---
+2024-11-14T13:16:18+0100 INFO --- logging initialized ---
+2024-11-14T15:02:18+0100 INFO --- logging initialized ---
+2024-11-14T17:00:18+0100 INFO --- logging initialized ---
+2024-11-14T18:34:18+0100 INFO --- logging initialized ---
+2024-11-14T19:50:18+0100 INFO --- logging initialized ---
+2024-11-14T21:01:01+0100 INFO --- logging initialized ---
+2024-11-14T22:29:18+0100 INFO --- logging initialized ---
+2024-11-15T00:11:18+0100 INFO --- logging initialized ---
+2024-11-15T01:34:18+0100 INFO --- logging initialized ---
+2024-11-15T02:27:23+0100 INFO --- logging initialized ---
+2024-11-15T02:28:16+0100 SUBDEBUG Installed: dhcp-server-12:4.3.6-50.el8_10.x86_64
+2024-11-15T02:55:58+0100 INFO --- logging initialized ---
+2024-11-15T04:33:18+0100 INFO --- logging initialized ---
+2024-11-15T05:57:40+0100 INFO --- logging initialized ---
+2024-11-15T07:38:14+0100 INFO --- logging initialized ---
+2024-11-15T08:47:14+0100 INFO --- logging initialized ---
+2024-11-15T10:43:04+0100 INFO --- logging initialized ---
+2024-11-15T12:00:14+0100 INFO --- logging initialized ---
+2024-11-15T13:41:14+0100 INFO --- logging initialized ---
+2024-11-15T15:30:14+0100 INFO --- logging initialized ---
+2024-11-15T16:06:38+0100 INFO --- logging initialized ---
+2024-11-15T16:15:36+0100 INFO --- logging initialized ---
+2024-11-15T16:15:45+0100 SUBDEBUG Upgrade: libsoup-2.62.3-6.el8_10.x86_64
+2024-11-15T16:15:46+0100 SUBDEBUG Upgrade: expat-2.2.5-16.el8_10.x86_64
+2024-11-15T16:15:46+0100 SUBDEBUG Upgrade: binutils-2.30-125.el8_10.x86_64
+2024-11-15T16:15:48+0100 SUBDEBUG Upgraded: libsoup-2.62.3-5.el8.x86_64
+2024-11-15T16:15:49+0100 SUBDEBUG Upgraded: expat-2.2.5-15.el8_10.x86_64
+2024-11-15T16:15:49+0100 SUBDEBUG Upgraded: binutils-2.30-123.el8.x86_64
+2024-11-15T16:55:28+0100 INFO --- logging initialized ---
+2024-11-15T16:55:30+0100 SUBDEBUG Installed: aide-0.16-14.el8_5.1.x86_64
+2024-11-15T17:11:10+0100 INFO --- logging initialized ---
+2024-11-15T18:27:11+0100 INFO --- logging initialized ---
+2024-11-15T20:27:11+0100 INFO --- logging initialized ---
+2024-11-15T22:26:11+0100 INFO --- logging initialized ---
+2024-11-16T00:21:11+0100 INFO --- logging initialized ---
+2024-11-16T01:34:40+0100 INFO --- logging initialized ---
+2024-11-16T02:49:11+0100 INFO --- logging initialized ---
+2024-11-16T04:37:11+0100 INFO --- logging initialized ---
+2024-11-16T05:37:59+0100 INFO --- logging initialized ---
+2024-11-16T07:12:11+0100 INFO --- logging initialized ---
+2024-11-16T08:18:11+0100 INFO --- logging initialized ---
+2024-11-16T10:00:11+0100 INFO --- logging initialized ---
+2024-11-16T11:40:11+0100 INFO --- logging initialized ---
+2024-11-16T13:11:11+0100 INFO --- logging initialized ---
+2024-11-16T14:40:44+0100 INFO --- logging initialized ---
+2024-11-16T16:35:11+0100 INFO --- logging initialized ---
+2024-11-16T17:37:11+0100 INFO --- logging initialized ---
+2024-11-16T19:07:59+0100 INFO --- logging initialized ---
+2024-11-16T20:28:11+0100 INFO --- logging initialized ---
+2024-11-16T22:25:59+0100 INFO --- logging initialized ---
+2024-11-16T23:31:43+0100 INFO --- logging initialized ---
+2024-11-17T01:13:11+0100 INFO --- logging initialized ---
+2024-11-17T02:56:11+0100 INFO --- logging initialized ---
+2024-11-17T04:36:11+0100 INFO --- logging initialized ---
+2024-11-17T06:20:11+0100 INFO --- logging initialized ---
+2024-11-17T07:29:11+0100 INFO --- logging initialized ---
+2024-11-17T09:19:11+0100 INFO --- logging initialized ---
+2024-11-17T10:37:11+0100 INFO --- logging initialized ---
+2024-11-17T12:13:44+0100 INFO --- logging initialized ---
+2024-11-17T13:30:11+0100 INFO --- logging initialized ---
+2024-11-17T15:00:11+0100 INFO --- logging initialized ---
+2024-11-17T16:29:11+0100 INFO --- logging initialized ---
+2024-11-17T18:01:01+0100 INFO --- logging initialized ---
+2024-11-17T19:51:11+0100 INFO --- logging initialized ---
+2024-11-17T21:29:11+0100 INFO --- logging initialized ---
+2024-11-17T23:26:01+0100 INFO --- logging initialized ---
+2024-11-18T00:29:05+0100 INFO --- logging initialized ---
+2024-11-18T01:34:11+0100 INFO --- logging initialized ---
+2024-11-18T02:58:11+0100 INFO --- logging initialized ---
+2024-11-18T04:43:11+0100 INFO --- logging initialized ---
+2024-11-18T06:12:11+0100 INFO --- logging initialized ---
+2024-11-18T08:00:11+0100 INFO --- logging initialized ---
+2024-11-18T09:34:11+0100 INFO --- logging initialized ---
+2024-11-18T11:04:11+0100 INFO --- logging initialized ---
+2024-11-18T12:31:11+0100 INFO --- logging initialized ---
+2024-11-18T14:01:02+0100 INFO --- logging initialized ---
+2024-11-18T16:00:11+0100 INFO --- logging initialized ---
+2024-11-18T17:28:11+0100 INFO --- logging initialized ---
+2024-11-18T19:07:11+0100 INFO --- logging initialized ---
+2024-11-18T20:40:11+0100 INFO --- logging initialized ---
+2024-11-18T21:49:11+0100 INFO --- logging initialized ---
+2024-11-18T23:19:53+0100 INFO --- logging initialized ---
+2024-11-19T01:02:11+0100 INFO --- logging initialized ---
+2024-11-19T02:10:11+0100 INFO --- logging initialized ---
+2024-11-19T03:21:11+0100 INFO --- logging initialized ---
+2024-11-19T04:33:11+0100 INFO --- logging initialized ---
+2024-11-19T06:10:11+0100 INFO --- logging initialized ---
+2024-11-19T07:29:11+0100 INFO --- logging initialized ---
+2024-11-19T08:54:11+0100 INFO --- logging initialized ---
+2024-11-19T10:39:11+0100 INFO --- logging initialized ---
+2024-11-19T12:28:11+0100 INFO --- logging initialized ---
+2024-11-19T13:52:51+0100 INFO --- logging initialized ---
+2024-11-19T15:39:11+0100 INFO --- logging initialized ---
+2024-11-19T17:31:11+0100 INFO --- logging initialized ---
+2024-11-19T19:25:11+0100 INFO --- logging initialized ---
+2024-11-19T20:35:11+0100 INFO --- logging initialized ---
+2024-11-19T22:24:11+0100 INFO --- logging initialized ---
+2024-11-20T00:24:11+0100 INFO --- logging initialized ---
+2024-11-20T01:43:11+0100 INFO --- logging initialized ---
+2024-11-20T03:10:11+0100 INFO --- logging initialized ---
+2024-11-20T04:46:11+0100 INFO --- logging initialized ---
+2024-11-20T06:27:11+0100 INFO --- logging initialized ---
+2024-11-20T07:39:11+0100 INFO --- logging initialized ---
+2024-11-20T09:02:11+0100 INFO --- logging initialized ---
+2024-11-20T10:46:11+0100 INFO --- logging initialized ---
+2024-11-20T12:28:11+0100 INFO --- logging initialized ---
+2024-11-20T13:52:51+0100 INFO --- logging initialized ---
+2024-11-20T15:10:11+0100 INFO --- logging initialized ---
+2024-11-20T16:37:46+0100 INFO --- logging initialized ---
+2024-11-20T18:07:11+0100 INFO --- logging initialized ---
+2024-11-20T19:49:11+0100 INFO --- logging initialized ---
+2024-11-20T21:01:02+0100 INFO --- logging initialized ---
+2024-11-20T22:04:11+0100 INFO --- logging initialized ---
+2024-11-20T23:19:11+0100 INFO --- logging initialized ---
+2024-11-21T01:15:11+0100 INFO --- logging initialized ---
+2024-11-21T02:56:11+0100 INFO --- logging initialized ---
+2024-11-21T04:33:11+0100 INFO --- logging initialized ---
+2024-11-21T06:28:11+0100 INFO --- logging initialized ---
+2024-11-21T08:24:11+0100 INFO --- logging initialized ---
+2024-11-21T09:35:11+0100 INFO --- logging initialized ---
+2024-11-21T10:40:11+0100 INFO --- logging initialized ---
+2024-11-21T12:25:11+0100 INFO --- logging initialized ---
+2024-11-21T13:33:11+0100 INFO --- logging initialized ---
+2024-11-21T15:22:11+0100 INFO --- logging initialized ---
+2024-11-21T16:34:11+0100 INFO --- logging initialized ---
+2024-11-21T18:31:11+0100 INFO --- logging initialized ---
+2024-11-21T19:50:11+0100 INFO --- logging initialized ---
+2024-11-21T21:09:11+0100 INFO --- logging initialized ---
+2024-11-21T22:48:11+0100 INFO --- logging initialized ---
+2024-11-21T23:54:11+0100 INFO --- logging initialized ---
+2024-11-22T01:18:12+0100 INFO --- logging initialized ---
+2024-11-22T01:18:14+0100 SUBDEBUG Installed: cyrus-sasl-2.1.27-6.el8_5.x86_64
+2024-11-22T01:18:15+0100 SUBDEBUG Installed: procmail-3.22-47.el8.x86_64
+2024-11-22T01:18:15+0100 SUBDEBUG Installed: sendmail-8.15.2-34.el8.x86_64
+2024-11-22T01:19:18+0100 SUBDEBUG Installed: mailx-12.5-29.el8.x86_64
+2024-11-22T01:19:19+0100 INFO --- logging initialized ---
+2024-11-22T02:39:11+0100 INFO --- logging initialized ---
+2024-11-22T03:26:57+0100 INFO --- logging initialized ---
+2024-11-22T03:27:29+0100 INFO --- logging initialized ---
+2024-11-22T03:27:43+0100 INFO --- logging initialized ---
+2024-11-22T03:28:47+0100 SUBDEBUG Installed: git-core-2.43.5-1.el8_10.x86_64
+2024-11-22T03:28:49+0100 SUBDEBUG Installed: git-core-doc-2.43.5-1.el8_10.noarch
+2024-11-22T03:28:50+0100 SUBDEBUG Installed: perl-Digest-1.17-395.el8.noarch
+2024-11-22T03:28:51+0100 SUBDEBUG Installed: perl-Digest-MD5-2.55-396.el8.x86_64
+2024-11-22T03:28:51+0100 SUBDEBUG Installed: perl-Data-Dumper-2.167-399.el8.x86_64
+2024-11-22T03:28:51+0100 SUBDEBUG Installed: perl-libnet-3.11-3.el8.noarch
+2024-11-22T03:28:52+0100 SUBDEBUG Installed: perl-URI-1.73-3.el8.noarch
+2024-11-22T03:28:52+0100 SUBDEBUG Installed: perl-Pod-Escapes-1:1.07-395.el8.noarch
+2024-11-22T03:28:52+0100 SUBDEBUG Installed: perl-Net-SSLeay-1.88-2.module+el8.9.0+1517+e71a7a62.x86_64
+2024-11-22T03:28:53+0100 SUBDEBUG Installed: perl-Mozilla-CA-20160104-7.module+el8.9.0+1521+0101edce.noarch
+2024-11-22T03:28:53+0100 SUBDEBUG Installed: perl-IO-Socket-IP-0.39-5.el8.noarch
+2024-11-22T03:28:53+0100 SUBDEBUG Installed: perl-Time-Local-1:1.280-1.el8.noarch
+2024-11-22T03:28:53+0100 SUBDEBUG Installed: perl-IO-Socket-SSL-2.066-4.module+el8.9.0+1517+e71a7a62.noarch
+2024-11-22T03:28:54+0100 SUBDEBUG Installed: perl-Term-ANSIColor-4.06-396.el8.noarch
+2024-11-22T03:28:54+0100 SUBDEBUG Installed: perl-Term-Cap-1.17-395.el8.noarch
+2024-11-22T03:28:54+0100 SUBDEBUG Installed: perl-File-Temp-0.230.600-1.el8.noarch
+2024-11-22T03:28:55+0100 SUBDEBUG Installed: perl-Pod-Simple-1:3.35-395.el8.noarch
+2024-11-22T03:28:55+0100 SUBDEBUG Installed: perl-HTTP-Tiny-0.074-3.el8.noarch
+2024-11-22T03:28:55+0100 SUBDEBUG Installed: perl-podlators-4.11-1.el8.noarch
+2024-11-22T03:28:56+0100 SUBDEBUG Installed: perl-Pod-Perldoc-3.28-396.el8.noarch
+2024-11-22T03:28:56+0100 SUBDEBUG Installed: perl-Text-ParseWords-3.30-395.el8.noarch
+2024-11-22T03:28:56+0100 SUBDEBUG Installed: perl-Pod-Usage-4:1.69-395.el8.noarch
+2024-11-22T03:28:56+0100 SUBDEBUG Installed: perl-MIME-Base64-3.15-396.el8.x86_64
+2024-11-22T03:28:57+0100 SUBDEBUG Installed: perl-Storable-1:3.11-3.el8.x86_64
+2024-11-22T03:28:57+0100 SUBDEBUG Installed: perl-Getopt-Long-1:2.50-4.el8.noarch
+2024-11-22T03:28:57+0100 SUBDEBUG Installed: perl-Errno-1.28-422.el8.x86_64
+2024-11-22T03:28:57+0100 SUBDEBUG Installed: perl-Socket-4:2.027-3.el8.x86_64
+2024-11-22T03:28:58+0100 SUBDEBUG Installed: perl-Encode-4:2.97-3.el8.x86_64
+2024-11-22T03:28:59+0100 SUBDEBUG Installed: perl-Carp-1.42-396.el8.noarch
+2024-11-22T03:28:59+0100 SUBDEBUG Installed: perl-Exporter-5.72-396.el8.noarch
+2024-11-22T03:28:59+0100 SUBDEBUG Installed: perl-libs-4:5.26.3-422.el8.x86_64
+2024-11-22T03:29:00+0100 SUBDEBUG Installed: perl-Scalar-List-Utils-3:1.49-2.el8.x86_64
+2024-11-22T03:29:00+0100 SUBDEBUG Installed: perl-parent-1:0.237-1.el8.noarch
+2024-11-22T03:29:01+0100 SUBDEBUG Installed: perl-macros-4:5.26.3-422.el8.x86_64
+2024-11-22T03:29:01+0100 SUBDEBUG Installed: perl-Text-Tabs+Wrap-2013.0523-395.el8.noarch
+2024-11-22T03:29:01+0100 SUBDEBUG Installed: perl-Unicode-Normalize-1.25-396.el8.x86_64
+2024-11-22T03:29:01+0100 SUBDEBUG Installed: perl-File-Path-2.15-2.el8.noarch
+2024-11-22T03:29:01+0100 SUBDEBUG Installed: perl-IO-1.38-422.el8.x86_64
+2024-11-22T03:29:02+0100 SUBDEBUG Installed: perl-PathTools-3.74-1.el8.x86_64
+2024-11-22T03:29:02+0100 SUBDEBUG Installed: perl-constant-1.33-396.el8.noarch
+2024-11-22T03:29:02+0100 SUBDEBUG Installed: perl-threads-1:2.21-2.el8.x86_64
+2024-11-22T03:29:03+0100 SUBDEBUG Installed: perl-threads-shared-1.58-2.el8.x86_64
+2024-11-22T03:29:03+0100 SUBDEBUG Installed: perl-interpreter-4:5.26.3-422.el8.x86_64
+2024-11-22T03:29:05+0100 SUBDEBUG Installed: perl-Error-1:0.17025-2.el8.noarch
+2024-11-22T03:29:05+0100 SUBDEBUG Installed: perl-TermReadKey-2.37-7.el8.x86_64
+2024-11-22T03:29:06+0100 SUBDEBUG Installed: emacs-filesystem-1:26.1-12.el8_10.noarch
+2024-11-22T03:29:06+0100 SUBDEBUG Installed: perl-Git-2.43.5-1.el8_10.noarch
+2024-11-22T03:29:06+0100 SUBDEBUG Installed: git-2.43.5-1.el8_10.x86_64

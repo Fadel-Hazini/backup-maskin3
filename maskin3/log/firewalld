@@ -1,0 +1,46 @@
+2024-11-04 08:05:22 WARNING: AllowZoneDrifting is enabled. This is considered an insecure configuration option. It will be removed in a future release. Please consider disabling it now.
+2024-11-07 13:43:31 WARNING: AllowZoneDrifting is enabled. This is considered an insecure configuration option. It will be removed in a future release. Please consider disabling it now.
+2024-11-07 13:44:17 WARNING: AllowZoneDrifting is enabled. This is considered an insecure configuration option. It will be removed in a future release. Please consider disabling it now.
+2024-11-07 13:47:20 WARNING: AllowZoneDrifting is enabled. This is considered an insecure configuration option. It will be removed in a future release. Please consider disabling it now.
+2024-11-07 13:47:50 WARNING: ALREADY_ENABLED: masquerade
+2024-11-07 14:17:17 WARNING: AllowZoneDrifting is enabled. This is considered an insecure configuration option. It will be removed in a future release. Please consider disabling it now.
+2024-11-07 16:12:47 WARNING: ALREADY_ENABLED: dns
+2024-11-07 16:12:54 WARNING: AllowZoneDrifting is enabled. This is considered an insecure configuration option. It will be removed in a future release. Please consider disabling it now.
+2024-11-07 16:22:52 WARNING: AllowZoneDrifting is enabled. This is considered an insecure configuration option. It will be removed in a future release. Please consider disabling it now.
+2024-11-12 14:19:20 WARNING: AllowZoneDrifting is enabled. This is considered an insecure configuration option. It will be removed in a future release. Please consider disabling it now.
+2024-11-12 14:21:53 WARNING: AllowZoneDrifting is enabled. This is considered an insecure configuration option. It will be removed in a future release. Please consider disabling it now.
+2024-11-12 14:35:58 WARNING: ALREADY_ENABLED: masquerade
+2024-11-12 14:36:06 WARNING: AllowZoneDrifting is enabled. This is considered an insecure configuration option. It will be removed in a future release. Please consider disabling it now.
+2024-11-12 14:36:28 WARNING: ALREADY_ENABLED: dns
+2024-11-12 14:36:28 WARNING: ALREADY_ENABLED: ssh
+2024-11-12 14:36:29 WARNING: ALREADY_ENABLED: masquerade
+2024-11-12 14:36:29 WARNING: AllowZoneDrifting is enabled. This is considered an insecure configuration option. It will be removed in a future release. Please consider disabling it now.
+2024-11-12 14:36:35 WARNING: AllowZoneDrifting is enabled. This is considered an insecure configuration option. It will be removed in a future release. Please consider disabling it now.
+2024-11-12 14:36:40 WARNING: AllowZoneDrifting is enabled. This is considered an insecure configuration option. It will be removed in a future release. Please consider disabling it now.
+2024-11-12 15:36:30 WARNING: AllowZoneDrifting is enabled. This is considered an insecure configuration option. It will be removed in a future release. Please consider disabling it now.
+2024-11-15 02:35:36 WARNING: ALREADY_ENABLED: masquerade
+2024-11-15 02:35:37 WARNING: ALREADY_ENABLED: masquerade
+2024-11-15 02:35:37 WARNING: ALREADY_ENABLED: dns
+2024-11-15 02:35:38 WARNING: ALREADY_ENABLED: dhcp
+2024-11-15 02:35:42 WARNING: AllowZoneDrifting is enabled. This is considered an insecure configuration option. It will be removed in a future release. Please consider disabling it now.
+2024-11-15 02:56:29 WARNING: ALREADY_ENABLED: dhcp
+2024-11-15 02:56:30 WARNING: AllowZoneDrifting is enabled. This is considered an insecure configuration option. It will be removed in a future release. Please consider disabling it now.
+2024-11-15 03:04:41 WARNING: ALREADY_ENABLED: dhcp
+2024-11-15 03:04:42 WARNING: AllowZoneDrifting is enabled. This is considered an insecure configuration option. It will be removed in a future release. Please consider disabling it now.
+2024-11-15 03:51:20 WARNING: AllowZoneDrifting is enabled. This is considered an insecure configuration option. It will be removed in a future release. Please consider disabling it now.
+2024-11-15 03:55:41 WARNING: ALREADY_ENABLED: masquerade
+2024-11-15 03:55:42 WARNING: AllowZoneDrifting is enabled. This is considered an insecure configuration option. It will be removed in a future release. Please consider disabling it now.
+2024-11-15 04:03:34 WARNING: ALREADY_ENABLED: masquerade
+2024-11-15 04:03:34 WARNING: ALREADY_ENABLED: masquerade
+2024-11-15 04:03:35 WARNING: AllowZoneDrifting is enabled. This is considered an insecure configuration option. It will be removed in a future release. Please consider disabling it now.
+2024-11-15 04:03:44 WARNING: ALREADY_ENABLED: 443:tcp
+2024-11-15 04:03:44 WARNING: AllowZoneDrifting is enabled. This is considered an insecure configuration option. It will be removed in a future release. Please consider disabling it now.
+2024-11-15 04:06:16 WARNING: ALREADY_ENABLED: masquerade
+2024-11-15 04:06:16 WARNING: ALREADY_ENABLED: masquerade
+2024-11-15 04:06:17 WARNING: AllowZoneDrifting is enabled. This is considered an insecure configuration option. It will be removed in a future release. Please consider disabling it now.
+2024-11-15 04:06:44 WARNING: NOT_ENABLED: 53:udp:53:192.168.0.2
+2024-11-15 04:06:45 WARNING: NOT_ENABLED: 53:tcp:53:192.168.0.2
+2024-11-15 04:06:45 WARNING: AllowZoneDrifting is enabled. This is considered an insecure configuration option. It will be removed in a future release. Please consider disabling it now.
+2024-11-15 04:07:58 WARNING: AllowZoneDrifting is enabled. This is considered an insecure configuration option. It will be removed in a future release. Please consider disabling it now.
+2024-11-15 04:57:42 WARNING: AllowZoneDrifting is enabled. This is considered an insecure configuration option. It will be removed in a future release. Please consider disabling it now.
+2024-11-15 15:40:51 WARNING: AllowZoneDrifting is enabled. This is considered an insecure configuration option. It will be removed in a future release. Please consider disabling it now.

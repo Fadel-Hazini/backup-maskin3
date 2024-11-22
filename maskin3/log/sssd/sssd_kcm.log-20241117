@@ -1,0 +1,33 @@
+(2024-11-11 13:45:02): [kcm] [server_setup] (0x3f7c0): Starting with debug level = 0x0070
+(2024-11-11 13:55:02): [kcm] [orderly_shutdown] (0x3f7c0): SIGTERM: killing children
+(2024-11-11 13:55:02): [kcm] [orderly_shutdown] (0x3f7c0): Shutting down (status = 0)
+(2024-11-12 15:58:59): [kcm] [server_setup] (0x3f7c0): Starting with debug level = 0x0070
+(2024-11-12 16:03:59): [kcm] [orderly_shutdown] (0x3f7c0): SIGTERM: killing children
+(2024-11-12 16:03:59): [kcm] [orderly_shutdown] (0x3f7c0): Shutting down (status = 0)
+(2024-11-12 17:00:25): [kcm] [server_setup] (0x3f7c0): Starting with debug level = 0x0070
+(2024-11-12 17:05:25): [kcm] [orderly_shutdown] (0x3f7c0): SIGTERM: killing children
+(2024-11-12 17:05:25): [kcm] [orderly_shutdown] (0x3f7c0): Shutting down (status = 0)
+(2024-11-14 10:03:56): [kcm] [server_setup] (0x3f7c0): Starting with debug level = 0x0070
+(2024-11-14 10:08:56): [kcm] [orderly_shutdown] (0x3f7c0): SIGTERM: killing children
+(2024-11-14 10:08:56): [kcm] [orderly_shutdown] (0x3f7c0): Shutting down (status = 0)
+(2024-11-15  2:18:37): [kcm] [server_setup] (0x3f7c0): Starting with debug level = 0x0070
+(2024-11-15  2:23:37): [kcm] [orderly_shutdown] (0x3f7c0): SIGTERM: killing children
+(2024-11-15  2:23:37): [kcm] [orderly_shutdown] (0x3f7c0): Shutting down (status = 0)
+(2024-11-15  3:21:48): [kcm] [server_setup] (0x3f7c0): Starting with debug level = 0x0070
+(2024-11-15  3:26:48): [kcm] [orderly_shutdown] (0x3f7c0): SIGTERM: killing children
+(2024-11-15  3:26:48): [kcm] [orderly_shutdown] (0x3f7c0): Shutting down (status = 0)
+(2024-11-15  3:26:49): [kcm] [server_setup] (0x3f7c0): Starting with debug level = 0x0070
+(2024-11-15  3:46:49): [kcm] [orderly_shutdown] (0x3f7c0): SIGTERM: killing children
+(2024-11-15  3:46:49): [kcm] [orderly_shutdown] (0x3f7c0): Shutting down (status = 0)
+(2024-11-15  3:58:51): [kcm] [server_setup] (0x3f7c0): Starting with debug level = 0x0070
+(2024-11-15  4:03:51): [kcm] [orderly_shutdown] (0x3f7c0): SIGTERM: killing children
+(2024-11-15  4:03:51): [kcm] [orderly_shutdown] (0x3f7c0): Shutting down (status = 0)
+(2024-11-15 14:37:25): [kcm] [server_setup] (0x3f7c0): Starting with debug level = 0x0070
+(2024-11-15 14:42:25): [kcm] [orderly_shutdown] (0x3f7c0): SIGTERM: killing children
+(2024-11-15 14:42:25): [kcm] [orderly_shutdown] (0x3f7c0): Shutting down (status = 0)
+(2024-11-15 14:55:40): [kcm] [server_setup] (0x3f7c0): Starting with debug level = 0x0070
+(2024-11-15 15:00:40): [kcm] [orderly_shutdown] (0x3f7c0): SIGTERM: killing children
+(2024-11-15 15:00:40): [kcm] [orderly_shutdown] (0x3f7c0): Shutting down (status = 0)
+(2024-11-15 16:07:03): [kcm] [server_setup] (0x3f7c0): Starting with debug level = 0x0070
+(2024-11-15 16:12:03): [kcm] [orderly_shutdown] (0x3f7c0): SIGTERM: killing children
+(2024-11-15 16:12:03): [kcm] [orderly_shutdown] (0x3f7c0): Shutting down (status = 0)

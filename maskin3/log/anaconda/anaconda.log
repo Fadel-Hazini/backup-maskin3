@@ -1,0 +1,487 @@
+12:53:44,702 INF core.configuration.product: Loading information about products from /etc/anaconda/product.d.
+12:53:44,704 INF core.configuration.product: Found Fedora Server at /etc/anaconda/product.d/fedora-server.conf.
+12:53:44,705 INF core.configuration.product: Found oVirt Node Next at /etc/anaconda/product.d/ovirt.conf.
+12:53:44,706 INF core.configuration.product: Found Fedora Workstation at /etc/anaconda/product.d/fedora-workstation.conf.
+12:53:44,707 INF core.configuration.product: Found Red Hat Virtualization at /etc/anaconda/product.d/rhev.conf.
+12:53:44,722 INF core.configuration.product: Found Fedora Workstation Live at /etc/anaconda/product.d/fedora-workstation-live.conf.
+12:53:44,723 INF core.configuration.product: Found AlmaLinux at /etc/anaconda/product.d/almalinux.conf.
+12:53:44,724 INF core.configuration.product: Found CentOS Stream at /etc/anaconda/product.d/centos-stream.conf.
+12:53:44,725 INF core.configuration.product: Found Scientific Linux at /etc/anaconda/product.d/scientific-linux.conf.
+12:53:44,725 INF core.configuration.product: Found Rocky Linux at /etc/anaconda/product.d/rocky.conf.
+12:53:44,726 INF core.configuration.product: Found Fedora at /etc/anaconda/product.d/fedora.conf.
+12:53:44,727 INF core.configuration.product: Found Fedora AtomicHost at /etc/anaconda/product.d/fedora-atomic-host.conf.
+12:53:44,727 INF core.configuration.product: Found CentOS Linux at /etc/anaconda/product.d/centos.conf.
+12:53:44,728 INF core.configuration.product: Found Fedora Silverblue at /etc/anaconda/product.d/fedora-silverblue.conf.
+12:53:44,729 INF core.configuration.product: Found Red Hat Enterprise Linux at /etc/anaconda/product.d/rhel.conf.
+12:53:44,729 WRN core.configuration.product: No support for the product Rocky Linux Minimal.
+12:53:44,730 INF core.configuration.product: The product Rocky Linux is supported.
+12:53:44,737 INF main: /sbin/anaconda 33.16.10.5-1.el8.rocky.0.1
+12:53:44,795 WRN misc: /usr/lib64/python3.6/site-packages/dbus/connection.py:399: DeprecationWarning: invalid escape sequence \ 
+  """
+
+12:53:44,799 WRN misc: /usr/lib64/python3.6/site-packages/dbus/proxies.py:362: DeprecationWarning: invalid escape sequence \ 
+  """
+
+12:53:46,654 INF isys: 3979568 kB (3886 MB) are available
+12:53:46,674 INF startup_utils: check_memory(): total:3886, needed:320, graphical:410
+12:53:46,688 INF main: anaconda called with cmdline = ['/sbin/anaconda']
+12:53:46,688 INF main: Default encoding = utf-8 
+12:53:46,689 INF misc: Writing a temporary configuration loaded from: ['/etc/anaconda/anaconda.conf', '/etc/anaconda/product.d/rhel.conf', '/etc/anaconda/product.d/rocky.conf', '/etc/anaconda/conf.d/00-do-nothing.conf', '/etc/anaconda/conf.d/01-still-do-nothing.conf']
+12:53:46,704 INF core.dbus: Connecting to the Anaconda bus at unix:abstract=/tmp/dbus-2WPQqvopVN,guid=21c300b83a8bdd8f828403e3671a435a.
+12:53:52,072 INF main: Found a kickstart file: /usr/share/anaconda/interactive-defaults.ks
+12:53:52,123 DBG addons: Loading ks section into module path for addon com_redhat_kdump
+12:53:52,124 DBG addons: Loading spokes into module path for addon com_redhat_kdump
+12:53:52,124 DBG addons: Loading ks section into module path for addon org_fedora_oscap
+12:53:52,124 DBG addons: Loading spokes into module path for addon org_fedora_oscap
+12:53:52,245 INF startup_utils: Parsing kickstart: /usr/share/anaconda/interactive-defaults.ks
+12:53:52,371 WRN kickstart: Command firstboot will be parsed in DBus module.
+12:53:54,953 DBG localization: setting locale to: en_US.UTF-8
+12:53:54,962 DBG network: Initialization started.
+12:53:54,968 DBG network: Devices found: ['enp0s25']
+12:53:54,972 DBG network: Running task Consolidate initramfs connections
+12:53:55,979 DBG network: Consolidate initramfs connections result: []
+12:53:55,983 DBG network: Running task Apply kickstart
+12:53:56,990 DBG network: Apply kickstart result: []
+12:53:56,998 DBG network: Running task Dump missing ifcfg files
+12:53:58,004 DBG network: Dump missing ifcfg files result: ['enp0s25']
+12:53:58,008 DBG network: Running task Set real ONBOOT values from kickstart
+12:53:59,013 DBG network: Set real ONBOOT values from kickstart result: []
+12:53:59,014 DBG network: Creating network configurations.
+12:53:59,018 DBG network: Initialization finished.
+12:53:59,018 INF threading: Running Thread: AnaWaitForConnectingNMThread (139928755439360)
+12:53:59,018 DBG anaconda: setting display mode to GUI
+12:53:59,023 WRN stdout: Not asking for VNC because we don't have a network
+12:53:59,023 INF anaconda: Display mode is set to 'interactive graphical mode'.
+12:53:59,024 INF isys: 3979568 kB (3886 MB) are available
+12:53:59,029 INF threading: Thread Done: AnaWaitForConnectingNMThread (139928755439360)
+12:53:59,033 INF startup_utils: check_memory(): total:3886, needed:320, graphical:410
+12:53:59,034 DBG core.util: Setting timeout 60 seconds for starting X.
+12:54:02,281 DBG core.util: X server has signalled a successful start.
+12:54:02,436 INF display: Started spice-vdagent.
+12:54:03,145 DBG addons: Loading ks section into module path for addon com_redhat_kdump
+12:54:03,145 DBG addons: Loading spokes into module path for addon com_redhat_kdump
+12:54:03,145 DBG addons: Loading ks section into module path for addon org_fedora_oscap
+12:54:03,146 DBG addons: Loading spokes into module path for addon org_fedora_oscap
+12:54:03,373 DBG core.storage: LABEL=OEMDRV matches [] for devicetree=None and disks_only=True
+12:54:03,382 INF threading: Running Thread: AnaStorageThread (139928429139712)
+12:54:03,387 INF threading: Running Thread: AnaTimeInitThread (139928420747008)
+12:54:03,413 DBG payload.manager: Restarting payload thread
+12:54:03,414 INF threading: Running Thread: AnaPayloadRestartThread (139928411567872)
+12:54:03,414 INF geoloc: Geolocation is enabled.
+12:54:03,415 INF threading: Running Thread: AnaPayloadThread (139928403175168)
+12:54:03,415 INF threading: Thread Done: AnaPayloadRestartThread (139928411567872)
+12:54:03,415 ERR geoloc: Geolocation refresh failed - no connectivity
+12:54:03,415 DBG payload.manager: Updating payload thread state: STARTED
+12:54:03,420 DBG payload.manager: Updating payload thread state: WAITING_STORAGE
+12:54:04,307 DBG ui.gui: Detected primary monitor: 1920x1080 92dpix 92dpiy
+12:54:05,057 DBG localization: setting locale to: en_US.UTF-8
+12:54:05,077 DBG localization: setting locale to: en_US.UTF-8
+12:54:05,129 DBG ui.common: Entered spoke: WelcomeLanguageSpoke
+12:54:05,130 WRN misc: /usr/lib64/python3.6/site-packages/gi/overrides/Gdk.py:336: DeprecationWarning: Gdk.Cursor.new is deprecated
+  return cls.new(*args, **kwds)
+
+12:54:07,404 INF threading: Thread Done: AnaStorageThread (139928429139712)
+12:54:07,405 DBG payload.manager: Updating payload thread state: WAITING_NETWORK
+12:54:07,405 DBG payload.manager: Updating payload thread state: DOWNLOADING_PKG_METADATA
+12:54:08,001 INF threading: Thread Done: AnaTimeInitThread (139928420747008)
+12:54:09,782 DBG payload.manager: Updating payload thread state: DOWNLOADING_GROUP_METADATA
+12:54:10,770 DBG payload.manager: Updating payload thread state: FINISHED
+12:54:10,770 INF threading: Thread Done: AnaPayloadThread (139928403175168)
+12:56:01,598 DBG core.util: This system doesn't support TAINT_HARDWARE_UNSUPPORTED.
+12:56:01,599 DBG core.util: This system doesn't support TAINT_SUPPORT_REMOVED.
+12:56:01,600 DBG localization: setting locale to: en_US.UTF-8
+12:56:01,762 DBG ui.gui.spokes.network: network standalone spoke (init): completed: True
+12:56:01,771 DBG ui.common: Left spoke: WelcomeLanguageSpoke
+12:56:01,789 INF lifecycle: Adding controller: SummaryHub
+12:56:03,089 INF threading: Running Thread: AnaAddLayoutsInitThread (139928403175168)
+12:56:03,093 DBG ui.gui.utils: Starting applying <bound method AddLayoutDialog._addLayout of <pyanaconda.ui.gui.spokes.keyboard.AddLayoutDialog object at 0x7f439e385630>> on <list object at 0x7f439e347548>
+12:56:03,107 INF threading: Running Thread: AnaGtkBatchPre1 (139928420747008)
+12:56:03,110 INF threading: Thread Done: AnaGtkBatchPre1 (139928420747008)
+12:56:03,156 INF threading: Running Thread: AnaKeyboardThread (139928420747008)
+12:56:03,291 INF lifecycle: Module initialized: LangsupportSpoke
+12:56:03,684 INF threading: Running Thread: AnaNTPserver1 (139928429139712)
+12:56:03,684 INF threading: Running Thread: AnaDateTimeThread (139928354043648)
+12:56:03,730 INF threading: Thread Done: AnaNTPserver1 (139928429139712)
+12:56:04,758 INF threading: Running Thread: AnaSourceWatcher (139928429139712)
+12:56:04,802 INF ui.gui.spokes.software_selection: using environment from kickstart: None
+12:56:04,810 INF threading: Running Thread: AnaSoftwareWatcher (139928345650944)
+12:56:04,820 DBG ui.gui.hubs: incomplete spokes: [SoftwareSelectionSpoke]
+12:56:04,895 INF threading: Running Thread: AnaStorageWatcher (139928337258240)
+12:56:04,900 DBG ui.gui.hubs: incomplete spokes: [SoftwareSelectionSpoke, StorageSpoke]
+12:56:04,926 DBG ui.lib.storage: Selecting one or less disks by default: 
+12:56:04,927 INF lifecycle: Module initialized: StorageSpoke
+12:56:04,927 INF threading: Thread Done: AnaStorageWatcher (139928337258240)
+12:56:04,955 INF lifecycle: Module initialized: CustomPartitioningSpoke
+12:56:04,959 DBG core.storage: LABEL=ROCKY-8-10- matches ['sdb1'] for devicetree=None and disks_only=False
+12:56:04,997 INF lifecycle: Module initialized: FilterSpoke
+12:56:05,007 WRN misc: /usr/share/anaconda/addons/com_redhat_kdump/gui/spokes/kdump.py:87: PyGTKDeprecationWarning: Using positional arguments with the GObject constructor has been deprecated. Please specify keyword(s) for "value, lower, upper, step_increment, page_increment, page_size" or use a class specific constructor. See: https://wiki.gnome.org/PyGObject/InitializerDeprecations
+  adjustment = Gtk.Adjustment(lower, lower, upper, step, step, 0)
+
+12:56:05,047 DBG ui.gui.spokes.network: adding device configuration: NetworkDeviceConfiguration(connection_uuid='bbf5cefc-601e-4416-99e9-b7ea72286b76', device_name='enp0s25', device_type=1)
+12:56:05,053 INF lifecycle: Module initialized: NetworkSpoke
+12:56:05,075 INF threading: Running Thread: OSCAPguiWaitForDataFetchThread (139928337258240)
+12:56:05,099 INF lifecycle: Module initialized: PasswordSpoke
+12:56:05,105 DBG ui.gui.hubs: incomplete spokes: [SoftwareSelectionSpoke, StorageSpoke, PasswordSpoke]
+12:56:05,154 INF lifecycle: Module initialized: UserSpoke
+12:56:05,167 DBG ui.gui.hubs: incomplete spokes: [SoftwareSelectionSpoke, StorageSpoke, PasswordSpoke, UserSpoke]
+12:56:05,168 INF lifecycle: Initialization of all modules (11) has been started.
+12:56:05,172 DBG ui.gui.hubs: Starting event loop for hub SummaryHub
+12:56:05,202 DBG ui.common: Entered hub: SummaryHub
+12:56:05,348 DBG ui.gui.hubs: spoke is not ready: KeyboardSpoke
+12:56:05,349 DBG ui.gui.hubs: setting KeyboardSpoke status to: Getting list of layouts...
+12:56:05,363 DBG ui.gui.hubs: spoke is not ready: SoftwareSelectionSpoke
+12:56:05,388 DBG ui.gui.hubs: incomplete spokes: [SoftwareSelectionSpoke, StorageSpoke, PasswordSpoke, UserSpoke, SourceSpoke]
+12:56:05,389 DBG ui.gui.hubs: spoke is not ready: SourceSpoke
+12:56:05,389 DBG ui.gui.hubs: setting SourceSpoke status to: Setting up installation source...
+12:56:05,390 DBG ui.gui.hubs: setting SourceSpoke status to: Probing storage...
+12:56:05,391 DBG ui.gui.hubs: setting SourceSpoke status to: Downloading package metadata...
+12:56:05,391 DBG ui.gui.hubs: setting SourceSpoke status to: Downloading group metadata...
+12:56:05,412 DBG ui.gui.hubs: spoke is ready: SoftwareSelectionSpoke
+12:56:05,428 DBG ui.gui.hubs: spoke is ready: SourceSpoke
+12:56:05,428 DBG ui.gui.hubs: setting SoftwareSelectionSpoke status to: Downloading package metadata...
+12:56:05,429 DBG ui.gui.hubs: setting SoftwareSelectionSpoke status to: Downloading group metadata...
+12:56:05,429 DBG ui.gui.hubs: setting StorageSpoke status to: Probing storage...
+12:56:05,429 DBG ui.gui.hubs: setting StorageSpoke status to: Probing storage...
+12:56:05,437 DBG ui.gui.hubs: spoke is ready: StorageSpoke
+12:56:05,438 DBG ui.gui.hubs: setting OSCAPSpoke status to: Fetching content data
+12:56:05,439 DBG ui.gui.hubs: spoke is not ready: OSCAPSpoke
+12:56:05,445 DBG ui.gui.hubs: spoke is ready: PasswordSpoke
+08:56:05,000 INF isys: System time set to Thu Oct 24 12:56:05 2024 UTC
+08:56:05,000 INF isys: System time set to Thu Oct 24 12:56:05 2024 UTC
+08:56:05,000 INF isys: System time set to Thu Oct 24 12:56:05 2024 UTC
+08:56:05,005 INF lifecycle: Module initialized: DatetimeSpoke
+08:56:05,005 INF threading: Thread Done: AnaDateTimeThread (139928354043648)
+08:56:05,024 INF threading: Running Thread: AnaCheckSoftwareThread (139928354043648)
+08:56:05,024 INF lifecycle: Module initialized: SoftwareSelectionSpoke
+08:56:05,024 INF threading: Thread Done: AnaSoftwareWatcher (139928345650944)
+08:56:05,030 DBG ui.gui.hubs: spoke is ready: DatetimeSpoke
+08:56:05,191 DBG payload.requirement: apply with result True called on requirements []
+08:56:05,196 DBG ui.gui.hubs: spoke is ready: SoftwareSelectionSpoke
+08:56:05,295 DBG ui.gui.hubs: spoke is not ready: SoftwareSelectionSpoke
+08:56:05,373 DBG ui.gui.hubs: spoke is not ready: SourceSpoke
+08:56:05,373 DBG ui.gui.hubs: setting SoftwareSelectionSpoke status to: Checking software dependencies...
+08:56:05,678 INF threading: Thread Done: AnaCheckSoftwareThread (139928354043648)
+08:56:05,758 DBG ui.gui.hubs: incomplete spokes: [StorageSpoke, PasswordSpoke, UserSpoke, SourceSpoke]
+08:56:05,759 DBG ui.gui.hubs: spoke is ready: SoftwareSelectionSpoke
+08:56:05,800 DBG ui.gui.hubs: incomplete spokes: [StorageSpoke, PasswordSpoke, UserSpoke]
+08:56:05,801 DBG ui.gui.hubs: spoke is ready: SourceSpoke
+08:56:05,907 INF misc: OSCAP addon: Identified /usr/share/xml/scap/ssg/content//ssg-rl8-ds.xml as Source Data Stream
+08:56:05,908 INF misc: Opening SCAP content at /usr/share/xml/scap/ssg/content/ssg-rl8-ds.xml without considering tailoring
+08:56:06,579 DBG ui.gui.spokes.installation_source: Clearing checks in source spoke
+08:56:06,581 DBG ui.gui.spokes.installation_source: Setting up repos: ['Minimal']
+08:56:06,610 INF lifecycle: Module initialized: SourceSpoke
+08:56:06,610 INF threading: Thread Done: AnaSourceWatcher (139928429139712)
+08:56:06,957 DBG ui.gui.hubs: spoke is ready: SourceSpoke
+08:56:06,999 DBG ui.common: Entered spoke: StorageSpoke
+08:56:07,636 DBG misc: OSCAP addon: waiting for all Anaconda spokes to be initialized
+08:56:09,254 DBG ui.gui.utils: Finished applying <bound method AddLayoutDialog._addLayout of <pyanaconda.ui.gui.spokes.keyboard.AddLayoutDialog object at 0x7f439e385630>> on <list object at 0x7f439e347548>
+08:56:09,254 INF threading: Thread Done: AnaAddLayoutsInitThread (139928403175168)
+08:56:09,255 INF lifecycle: Module initialized: KeyboardSpoke
+08:56:09,255 INF lifecycle: All modules have been initialized.
+08:56:09,255 DBG misc: OSCAP addon: Anaconda init_done signal triggered
+08:56:09,255 INF threading: Thread Done: AnaKeyboardThread (139928420747008)
+08:56:09,255 DBG misc: OSCAP addon: all Anaconda spokes have been initialized - continuing
+08:56:09,265 INF threading: Thread Done: OSCAPguiWaitForDataFetchThread (139928337258240)
+08:56:09,271 DBG ui.gui.hubs: spoke is ready: KeyboardSpoke
+08:56:09,272 DBG ui.gui.hubs: spoke is ready: OSCAPSpoke
+08:56:09,273 DBG ui.gui.hubs: spoke is ready: OSCAPSpoke
+08:56:09,274 DBG ui.gui.hubs: spoke is ready: OSCAPSpoke
+08:56:12,743 INF core.storage: Detected 3.8 GiB of memory
+08:56:12,743 INF core.storage: Swap attempt of 3.8 GiB
+08:56:12,743 DBG ui.gui.spokes.storage: disk free: 2.8 MiB  fs free: 140.6 GiB  sw needs: 3.66 GiB  auto swap: 3.8 GiB
+08:56:12,941 DBG ui.gui.hubs: spoke is not ready: KdumpSpoke
+08:56:12,942 DBG ui.gui.hubs: spoke is ready: KdumpSpoke
+08:56:14,496 WRN misc: /usr/lib64/python3.6/site-packages/gi/overrides/GObject.py:553: Warning: gsignal.c:2642: instance '0x55665fa1b160' has no handler with id '29377'
+  return func(*args, **kwargs)
+
+08:56:14,496 WRN misc: /usr/lib64/python3.6/site-packages/gi/overrides/GObject.py:553: Warning: gsignal.c:2642: instance '0x55665fa1b160' has no handler with id '29378'
+  return func(*args, **kwargs)
+
+08:56:17,078 WRN misc: /usr/lib64/python3.6/site-packages/gi/overrides/GObject.py:553: Warning: gsignal.c:2642: instance '0x55665fea05f0' has no handler with id '29925'
+  return func(*args, **kwargs)
+
+08:56:17,078 WRN misc: /usr/lib64/python3.6/site-packages/gi/overrides/GObject.py:553: Warning: gsignal.c:2642: instance '0x55665fea05f0' has no handler with id '29926'
+  return func(*args, **kwargs)
+
+08:56:17,093 DBG ui.gui.spokes.storage: Running the execute method for the AUTOMATIC partitioning method.
+08:56:17,093 INF threading: Running Thread: AnaExecuteStorageThread (139928411567872)
+08:56:17,093 DBG ui.common: Left spoke: StorageSpoke
+08:56:17,094 DBG ui.gui.spokes.storage: Saving storage configuration...
+08:56:17,203 DBG ui.gui.hubs: spoke is not ready: StorageSpoke
+08:56:17,204 DBG ui.gui.hubs: setting StorageSpoke status to: Saving storage configuration...
+08:56:18,104 DBG ui.gui.spokes.storage: Checking storage configuration...
+08:56:18,112 DBG ui.gui.hubs: setting StorageSpoke status to: Checking storage configuration...
+08:56:19,179 DBG ui.gui.spokes.storage: Partitioning has been applied: ValidationReport(error_messages=[], warning_messages=[])
+08:56:19,180 INF threading: Thread Done: AnaExecuteStorageThread (139928411567872)
+08:56:19,269 DBG ui.gui.hubs: spoke is not ready: KdumpSpoke
+08:56:19,273 DBG ui.gui.hubs: incomplete spokes: [PasswordSpoke, UserSpoke]
+08:56:19,274 DBG ui.gui.hubs: spoke is ready: StorageSpoke
+08:56:19,275 DBG ui.gui.hubs: spoke is ready: KdumpSpoke
+08:56:19,736 DBG ui.common: Entered spoke: KeyboardSpoke
+08:56:48,704 DBG ui.common: Left spoke: KeyboardSpoke
+08:56:50,514 DBG ui.common: Entered spoke: PasswordSpoke
+08:56:58,783 INF ui.gui.spokes.root_password: Return to hub prevented by password checking rules.
+08:57:02,021 DBG ui.common: Left spoke: PasswordSpoke
+08:57:02,094 DBG ui.gui.hubs: incomplete spokes: [UserSpoke]
+08:57:02,099 DBG ui.gui.hubs: incomplete spokes: []
+08:57:02,207 INF ui.lib.space: fs space: 67.9 GiB  needed: 2.8 GiB
+08:57:02,322 INF ui.lib.space: fs space: 67.9 GiB  needed: 2.8 GiB
+08:57:02,323 DBG ui.gui.hubs: spoke is ready: PasswordSpoke
+08:57:03,431 DBG ui.common: Entered spoke: UserSpoke
+08:57:23,239 INF ui.gui.spokes.user: Return to hub prevented by password checking rules.
+08:57:26,224 DBG ui.common: Left spoke: UserSpoke
+08:57:26,416 INF ui.lib.space: fs space: 67.9 GiB  needed: 2.8 GiB
+08:57:29,259 DBG ui.common: Entered spoke: NetworkSpoke
+08:57:36,777 DBG ui.common: Left spoke: NetworkSpoke
+08:57:36,969 INF ui.lib.space: fs space: 67.9 GiB  needed: 2.8 GiB
+08:57:43,462 DBG ui.common: Entered spoke: DatetimeSpoke
+08:57:49,105 DBG ui.common: Left spoke: DatetimeSpoke
+08:57:49,303 INF ui.lib.space: fs space: 67.9 GiB  needed: 2.8 GiB
+08:57:50,540 DBG ui.common: Left hub: SummaryHub
+08:57:50,549 INF threading: Running Thread: AnaInstallThread (139928337258240)
+08:57:50,549 DBG ui.gui.spokes.installation_progress: The installation has started.
+08:57:50,554 DBG ui.common: Entered spoke: ProgressSpoke
+08:57:50,685 INF installation: Top-level task queue: Complete installation queue
+Number of task queues: 16
+Number of tasks: 41
+Task & task group listing:
+ Task queue: Installation queue
+  Task: Save system time to HW clock
+  Task queue: Installation environment setup
+   Task: Setup addons
+   Task: Configure the runtime system
+  Task queue: Early storage configuration
+   Task: Activate filesystems
+   Task: Mount filesystems
+   Task: Write the storage configuration
+  Task queue: Pre-install scripts
+   Task: Run %pre-install scripts
+  Task queue: Pre install tasks
+   Task: Copy resolv.conf to sysroot
+   Task: Discover information about a realm
+   Task: Find additional packages & run pre_install()
+  Task queue: Payload installation
+   Task: Install the payload
+  Task queue: Bootloader installation
+   Task: Configure the bootloader
+   Task: Install the bootloader
+  Task queue: Post-installation setup tasks
+   Task: Run post-installation setup tasks
+ Task queue: Configuration queue
+  Task queue: Installed system configuration
+   Task: Configure SELinux
+   Task: Configure fingerprint authentication
+   Task: Authselect configuration
+   Task: Authconfig configuration
+   Task: Configure time zone
+   Task: Configure NTP
+   Task: Configure Initial Setup
+   Task: Configure post-installation tools
+   Task: Configure services
+   Task: Configure systemd default target
+   Task: Configure default desktop
+   Task: Configure language
+   Task: Configure keyboard
+   Task: Configure firewall
+   Task: Create groups
+   Task: Create users
+   Task: Configure root password
+   Task: Set SSH keys
+   Task: Configure optional root password SSH login
+  Task queue: Network configuration
+   Task: Network configuration
+  Task queue: User creation
+  Task queue: Anaconda addon configuration
+   Task: Configure Anaconda addons
+   Task: Install the system
+  Task queue: Initramfs generation
+   Task: Generate initramfs
+   Task: Rerun zipl
+  Task: Join a realm
+  Task queue: Write configs and kickstarts
+   Task: Store kickstarts
+  Task queue: Post installation scripts
+   Task: Run post installation scripts
+08:57:50,686 INF installation: Queue started: Installation queue (1/16)
+08:57:50,686 INF installation: Task started: Save system time to HW clock (1/41)
+08:57:51,501 INF progress: Save system time to HW clock
+08:57:51,502 DBG installation: Task completed: Save system time to HW clock (1/41) (0.8 s)
+08:57:51,502 INF progress: Setting up the installation environment
+08:57:51,502 INF installation: Queue started: Installation environment setup (2/16)
+08:57:51,502 INF installation: Task started: Setup addons (2/41)
+08:57:51,503 INF progress: Setting up com_redhat_kdump addon
+08:57:51,508 INF progress: Setting up org_fedora_oscap addon
+08:57:51,508 INF progress: Setup addons
+08:57:51,508 DBG installation: Task completed: Setup addons (2/41) (0.0 s)
+08:57:51,508 INF installation: Task started: Configure the runtime system (3/41)
+08:57:51,511 INF progress: Configure the runtime system
+08:57:51,511 DBG installation: Task completed: Configure the runtime system (3/41) (0.0 s)
+08:57:51,511 INF progress: Configuring storage
+08:57:51,512 INF installation: Queue started: Early storage configuration (3/16)
+08:57:51,512 INF installation: Task started: Activate filesystems (4/41)
+08:57:53,599 INF progress: Creating disklabel on /dev/sda
+08:57:54,348 INF progress: Creating xfs on /dev/sda1
+08:57:55,328 INF progress: Creating lvmpv on /dev/sda2
+08:57:56,553 INF progress: Creating swap on /dev/mapper/rl-swap
+08:57:57,034 INF progress: Creating xfs on /dev/mapper/rl-home
+08:57:58,095 INF progress: Creating xfs on /dev/mapper/rl-root
+08:57:59,536 INF progress: Activate filesystems
+08:57:59,536 DBG installation: Task completed: Activate filesystems (4/41) (8.0 s)
+08:57:59,536 INF installation: Task started: Mount filesystems (5/41)
+08:58:03,550 INF progress: Mount filesystems
+08:58:03,550 DBG installation: Task completed: Mount filesystems (5/41) (4.0 s)
+08:58:03,550 INF installation: Task started: Write the storage configuration (6/41)
+08:58:04,560 INF progress: Write the storage configuration
+08:58:04,560 DBG installation: Task completed: Write the storage configuration (6/41) (1.0 s)
+08:58:04,560 INF progress: Running pre-installation scripts
+08:58:04,560 INF installation: Queue started: Pre-install scripts (4/16)
+08:58:04,561 INF installation: Task started: Run %pre-install scripts (7/41)
+08:58:04,561 INF progress: Run %pre-install scripts
+08:58:04,561 DBG installation: Task completed: Run %pre-install scripts (7/41) (0.0 s)
+08:58:04,562 INF progress: Running pre-installation tasks
+08:58:04,562 INF installation: Queue started: Pre install tasks (5/16)
+08:58:04,562 INF installation: Task started: Copy resolv.conf to sysroot (8/41)
+08:58:04,562 DBG network: /etc/resolv.conf does not exist
+08:58:04,562 INF progress: Copy resolv.conf to sysroot
+08:58:04,563 DBG installation: Task completed: Copy resolv.conf to sysroot (8/41) (0.0 s)
+08:58:04,563 INF installation: Task started: Discover information about a realm (9/41)
+08:58:04,567 INF progress: Discover information about a realm
+08:58:04,567 DBG installation: Task completed: Discover information about a realm (9/41) (0.0 s)
+08:58:04,567 INF installation: Task started: Find additional packages & run pre_install() (10/41)
+08:58:04,573 DBG payload.requirement: no group requirement added for language groups
+08:58:04,580 DBG payload.requirement: no package requirement added for langpacks
+08:58:04,585 DBG installation: Adding requirements for module org.fedoraproject.Anaconda.Modules.Security : [Requirement(name='authselect', reason='Needed by authselect kickstart command & for fingerprint authentication support.', type='package')]
+08:58:04,585 DBG payload.requirement: added package requirement 'authselect' for Needed by authselect kickstart command & for fingerprint authentication support., strong=True
+08:58:04,593 DBG installation: Adding requirements for module org.fedoraproject.Anaconda.Modules.Network : []
+08:58:04,597 DBG installation: Adding requirements for module org.fedoraproject.Anaconda.Modules.Timezone : []
+08:58:04,605 DBG installation: Adding requirements for module org.fedoraproject.Anaconda.Modules.Storage : [Requirement(name='lvm2', reason='Required to manage storage devices.', type='package'), Requirement(name='e2fsprogs', reason='Required to manage storage devices.', type='package'), Requirement(name='xfsprogs', reason='Required to manage storage devices.', type='package'), Requirement(name='grub2', reason='Necessary for the bootloader configuration.', type='package'), Requirement(name='grub2-tools', reason='Necessary for the bootloader configuration.', type='package')]
+08:58:04,606 DBG payload.requirement: added package requirement 'lvm2' for Required to manage storage devices., strong=True
+08:58:04,606 DBG payload.requirement: added package requirement 'e2fsprogs' for Required to manage storage devices., strong=True
+08:58:04,606 DBG payload.requirement: added package requirement 'xfsprogs' for Required to manage storage devices., strong=True
+08:58:04,607 DBG payload.requirement: added package requirement 'grub2' for Necessary for the bootloader configuration., strong=True
+08:58:04,607 DBG payload.requirement: added package requirement 'grub2-tools' for Necessary for the bootloader configuration., strong=True
+08:58:04,655 INF progress: Find additional packages & run pre_install()
+08:58:04,655 DBG installation: Task completed: Find additional packages & run pre_install() (10/41) (0.1 s)
+08:58:04,655 INF progress: Installing.
+08:58:04,656 INF installation: Queue started: Payload installation (6/16)
+08:58:04,656 INF installation: Task started: Install the payload (11/41)
+08:58:04,656 INF progress: Starting package installation process
+08:58:04,664 DBG payload.requirement: apply with result True called on requirements [('package', 'authselect', PayloadRequirement(id=authselect, reasons=[PayloadRequirementReason(reason='Needed by authselect kickstart command & for fingerprint authentication support.', strong=True)])), ('package', 'lvm2', PayloadRequirement(id=lvm2, reasons=[PayloadRequirementReason(reason='Required to manage storage devices.', strong=True)])), ('package', 'e2fsprogs', PayloadRequirement(id=e2fsprogs, reasons=[PayloadRequirementReason(reason='Required to manage storage devices.', strong=True)])), ('package', 'xfsprogs', PayloadRequirement(id=xfsprogs, reasons=[PayloadRequirementReason(reason='Required to manage storage devices.', strong=True)])), ('package', 'grub2', PayloadRequirement(id=grub2, reasons=[PayloadRequirementReason(reason='Necessary for the bootloader configuration.', strong=True)])), ('package', 'grub2-tools', PayloadRequirement(id=grub2-tools, reasons=[PayloadRequirementReason(reason='Necessary for the bootloader configuration.', strong=True)]))]
+08:58:26,963 INF progress: Preparing transaction from installation source
+09:06:51,279 INF progress: Install the payload
+09:06:51,279 DBG installation: Task completed: Install the payload (11/41) (526.6 s)
+09:06:51,280 INF progress: Installing boot loader
+09:06:51,280 INF installation: Queue started: Bootloader installation (7/16)
+09:06:51,280 INF installation: Task started: Configure the bootloader (12/41)
+09:06:52,663 INF progress: Configure the bootloader
+09:06:52,663 DBG installation: Task completed: Configure the bootloader (12/41) (1.4 s)
+09:06:52,664 INF installation: Task started: Install the bootloader (13/41)
+09:07:06,697 INF progress: Install the bootloader
+09:07:06,698 DBG installation: Task completed: Install the bootloader (13/41) (14.0 s)
+09:07:06,698 INF progress: Performing post-installation setup tasks
+09:07:06,698 INF installation: Queue started: Post-installation setup tasks (8/16)
+09:07:06,699 INF installation: Task started: Run post-installation setup tasks (14/41)
+09:07:07,393 INF payload.base: Installation requirements: [('package', 'authselect', PayloadRequirement(id=authselect, reasons=[PayloadRequirementReason(reason='Needed by authselect kickstart command & for fingerprint authentication support.', strong=True)])), ('package', 'lvm2', PayloadRequirement(id=lvm2, reasons=[PayloadRequirementReason(reason='Required to manage storage devices.', strong=True)])), ('package', 'e2fsprogs', PayloadRequirement(id=e2fsprogs, reasons=[PayloadRequirementReason(reason='Required to manage storage devices.', strong=True)])), ('package', 'xfsprogs', PayloadRequirement(id=xfsprogs, reasons=[PayloadRequirementReason(reason='Required to manage storage devices.', strong=True)])), ('package', 'grub2', PayloadRequirement(id=grub2, reasons=[PayloadRequirementReason(reason='Necessary for the bootloader configuration.', strong=True)])), ('package', 'grub2-tools', PayloadRequirement(id=grub2-tools, reasons=[PayloadRequirementReason(reason='Necessary for the bootloader configuration.', strong=True)]))]
+09:07:07,395 INF progress: Run post-installation setup tasks
+09:07:07,395 DBG installation: Task completed: Run post-installation setup tasks (14/41) (0.7 s)
+09:07:07,396 INF installation: Queue started: Configuration queue (9/16)
+09:07:07,396 INF progress: Configuring installed system
+09:07:07,396 INF installation: Queue started: Installed system configuration (10/16)
+09:07:07,396 INF installation: Task started: Configure SELinux (15/41)
+09:07:08,402 INF progress: Configure SELinux
+09:07:08,402 DBG installation: Task completed: Configure SELinux (15/41) (1.0 s)
+09:07:08,402 INF installation: Task started: Configure fingerprint authentication (16/41)
+09:07:08,405 INF progress: Configure fingerprint authentication
+09:07:08,405 DBG installation: Task completed: Configure fingerprint authentication (16/41) (0.0 s)
+09:07:08,406 INF installation: Task started: Authselect configuration (17/41)
+09:07:08,408 INF progress: Authselect configuration
+09:07:08,408 DBG installation: Task completed: Authselect configuration (17/41) (0.0 s)
+09:07:08,409 INF installation: Task started: Authconfig configuration (18/41)
+09:07:08,411 INF progress: Authconfig configuration
+09:07:08,411 DBG installation: Task completed: Authconfig configuration (18/41) (0.0 s)
+09:07:08,412 INF installation: Task started: Configure time zone (19/41)
+09:07:09,417 INF progress: Configure time zone
+09:07:09,417 DBG installation: Task completed: Configure time zone (19/41) (1.0 s)
+09:07:09,417 INF installation: Task started: Configure NTP (20/41)
+09:07:10,425 INF progress: Configure NTP
+09:07:10,426 DBG installation: Task completed: Configure NTP (20/41) (1.0 s)
+09:07:10,426 INF installation: Task started: Configure Initial Setup (21/41)
+09:07:10,429 INF progress: Configure Initial Setup
+09:07:10,429 DBG installation: Task completed: Configure Initial Setup (21/41) (0.0 s)
+09:07:10,430 INF installation: Task started: Configure post-installation tools (22/41)
+09:07:11,436 INF progress: Configure post-installation tools
+09:07:11,436 DBG installation: Task completed: Configure post-installation tools (22/41) (1.0 s)
+09:07:11,436 INF installation: Task started: Configure services (23/41)
+09:07:11,439 INF progress: Configure services
+09:07:11,440 DBG installation: Task completed: Configure services (23/41) (0.0 s)
+09:07:11,440 INF installation: Task started: Configure systemd default target (24/41)
+09:07:12,455 INF progress: Configure systemd default target
+09:07:12,455 DBG installation: Task completed: Configure systemd default target (24/41) (1.0 s)
+09:07:12,455 INF installation: Task started: Configure default desktop (25/41)
+09:07:12,458 INF progress: Configure default desktop
+09:07:12,458 DBG installation: Task completed: Configure default desktop (25/41) (0.0 s)
+09:07:12,458 INF installation: Task started: Configure language (26/41)
+09:07:12,462 INF progress: Configure language
+09:07:12,462 DBG installation: Task completed: Configure language (26/41) (0.0 s)
+09:07:12,462 INF installation: Task started: Configure keyboard (27/41)
+09:07:13,469 INF progress: Configure keyboard
+09:07:13,470 DBG installation: Task completed: Configure keyboard (27/41) (1.0 s)
+09:07:13,470 INF installation: Task started: Configure firewall (28/41)
+09:07:15,481 INF progress: Configure firewall
+09:07:15,481 DBG installation: Task completed: Configure firewall (28/41) (2.0 s)
+09:07:15,481 INF installation: Task started: Create groups (29/41)
+09:07:15,484 INF progress: Create groups
+09:07:15,485 DBG installation: Task completed: Create groups (29/41) (0.0 s)
+09:07:15,485 INF installation: Task started: Create users (30/41)
+09:07:16,492 INF progress: Create users
+09:07:16,492 DBG installation: Task completed: Create users (30/41) (1.0 s)
+09:07:16,492 INF installation: Task started: Configure root password (31/41)
+09:07:17,500 INF progress: Configure root password
+09:07:17,500 DBG installation: Task completed: Configure root password (31/41) (1.0 s)
+09:07:17,501 INF installation: Task started: Set SSH keys (32/41)
+09:07:17,504 INF progress: Set SSH keys
+09:07:17,504 DBG installation: Task completed: Set SSH keys (32/41) (0.0 s)
+09:07:17,504 INF installation: Task started: Configure optional root password SSH login (33/41)
+09:07:17,507 INF progress: Configure optional root password SSH login
+09:07:17,507 DBG installation: Task completed: Configure optional root password SSH login (33/41) (0.0 s)
+09:07:17,507 INF progress: Writing network configuration
+09:07:17,507 INF installation: Queue started: Network configuration (11/16)
+09:07:17,508 INF installation: Task started: Network configuration (34/41)
+09:07:19,619 INF progress: Network configuration
+09:07:19,619 DBG installation: Task completed: Network configuration (34/41) (2.1 s)
+09:07:19,620 WRN installation_tasks: Attempting to start an empty task queue (User creation).
+09:07:19,620 INF progress: Creating users
+09:07:19,620 INF installation: Queue started: User creation (12/16)
+09:07:19,620 WRN installation_tasks: The task group User creation is empty.
+09:07:19,621 INF progress: Configuring addons
+09:07:19,621 INF installation: Queue started: Anaconda addon configuration (13/16)
+09:07:19,621 INF installation: Task started: Configure Anaconda addons (35/41)
+09:07:19,621 INF progress: Executing com_redhat_kdump addon
+09:07:19,643 INF progress: Executing org_fedora_oscap addon
+09:07:19,644 INF progress: Configure Anaconda addons
+09:07:19,644 DBG installation: Task completed: Configure Anaconda addons (35/41) (0.0 s)
+09:07:19,644 INF installation: Task started: Install the system (36/41)
+09:07:19,648 INF progress: Install the system
+09:07:19,648 DBG installation: Task completed: Install the system (36/41) (0.0 s)
+09:07:19,649 INF progress: Generating initramfs
+09:07:19,649 INF installation: Queue started: Initramfs generation (14/16)
+09:07:19,649 INF installation: Task started: Generate initramfs (37/41)
+09:07:19,649 DBG payload.base: new-kernel-pkg does not exist, using dracut instead.
+09:07:20,009 INF payload.base: recreating initrd for 4.18.0-553.el8_10.x86_64
+09:08:03,141 INF progress: Generate initramfs
+09:08:03,141 DBG installation: Task completed: Generate initramfs (37/41) (43.5 s)
+09:08:03,142 INF installation: Task started: Rerun zipl (38/41)
+09:08:03,146 INF progress: Rerun zipl
+09:08:03,146 DBG installation: Task completed: Rerun zipl (38/41) (0.0 s)
+09:08:03,147 INF installation: Task started: Join a realm (39/41)
+09:08:03,150 INF progress: Join a realm
+09:08:03,150 DBG installation: Task completed: Join a realm (39/41) (0.0 s)
+09:08:03,150 INF progress: Storing configuration files and kickstarts
+09:08:03,151 INF installation: Queue started: Write configs and kickstarts (15/16)
+09:08:03,151 INF installation: Task started: Store kickstarts (40/41)
+09:08:03,214 INF progress: Store kickstarts
+09:08:03,214 DBG installation: Task completed: Store kickstarts (40/41) (0.1 s)
+09:08:03,214 INF progress: Running post-installation scripts
+09:08:03,215 INF installation: Queue started: Post installation scripts (16/16)
+09:08:03,215 INF installation: Task started: Run post installation scripts (41/41)
+09:08:03,215 INF kickstart.script: Running kickstart %%post script(s)

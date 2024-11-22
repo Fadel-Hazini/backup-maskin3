@@ -1,0 +1,178 @@
+# The format of this file is documented in the dhcpd.leases(5) manual page.
+# This lease file was written by isc-dhcp-4.3.6
+
+# authoring-byte-order entry is generated, DO NOT DELETE
+authoring-byte-order little-endian;
+
+lease 192.168.1.50 {
+  starts 4 2024/11/21 13:05:34;
+  ends 4 2024/11/21 13:15:34;
+  tstp 4 2024/11/21 13:15:34;
+  cltt 4 2024/11/21 13:07:43;
+  binding state free;
+  hardware ethernet 60:6d:3c:e0:10:d5;
+  uid "\001`m<\340\020\325";
+}
+lease 192.168.1.110 {
+  starts 5 2024/11/22 01:29:28;
+  ends 5 2024/11/22 01:39:28;
+  cltt 5 2024/11/22 01:29:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet dc:a6:32:44:a1:e9;
+  uid "\001\334\2462D\241\351";
+  client-hostname "pi11";
+}
+lease 192.168.1.56 {
+  starts 4 2024/11/21 13:36:28;
+  ends 5 2024/11/22 13:36:28;
+  tstp 5 2024/11/22 13:36:28;
+  cltt 4 2024/11/21 13:36:28;
+  binding state abandoned;
+  next binding state free;
+  rewind binding state free;
+}
+lease 192.168.1.110 {
+  starts 5 2024/11/22 01:34:28;
+  ends 5 2024/11/22 01:44:28;
+  cltt 5 2024/11/22 01:34:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet dc:a6:32:44:a1:e9;
+  uid "\001\334\2462D\241\351";
+  client-hostname "pi11";
+}
+lease 192.168.1.110 {
+  starts 5 2024/11/22 01:39:28;
+  ends 5 2024/11/22 01:49:28;
+  cltt 5 2024/11/22 01:39:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet dc:a6:32:44:a1:e9;
+  uid "\001\334\2462D\241\351";
+  client-hostname "pi11";
+}
+lease 192.168.1.110 {
+  starts 5 2024/11/22 01:44:28;
+  ends 5 2024/11/22 01:54:28;
+  cltt 5 2024/11/22 01:44:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet dc:a6:32:44:a1:e9;
+  uid "\001\334\2462D\241\351";
+  client-hostname "pi11";
+}
+lease 192.168.1.110 {
+  starts 5 2024/11/22 01:49:28;
+  ends 5 2024/11/22 01:59:28;
+  cltt 5 2024/11/22 01:49:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet dc:a6:32:44:a1:e9;
+  uid "\001\334\2462D\241\351";
+  client-hostname "pi11";
+}
+lease 192.168.1.110 {
+  starts 5 2024/11/22 01:54:28;
+  ends 5 2024/11/22 02:04:28;
+  cltt 5 2024/11/22 01:54:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet dc:a6:32:44:a1:e9;
+  uid "\001\334\2462D\241\351";
+  client-hostname "pi11";
+}
+lease 192.168.1.110 {
+  starts 5 2024/11/22 01:59:28;
+  ends 5 2024/11/22 02:09:28;
+  cltt 5 2024/11/22 01:59:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet dc:a6:32:44:a1:e9;
+  uid "\001\334\2462D\241\351";
+  client-hostname "pi11";
+}
+lease 192.168.1.110 {
+  starts 5 2024/11/22 02:04:28;
+  ends 5 2024/11/22 02:14:28;
+  cltt 5 2024/11/22 02:04:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet dc:a6:32:44:a1:e9;
+  uid "\001\334\2462D\241\351";
+  client-hostname "pi11";
+}
+lease 192.168.1.110 {
+  starts 5 2024/11/22 02:09:28;
+  ends 5 2024/11/22 02:19:28;
+  cltt 5 2024/11/22 02:09:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet dc:a6:32:44:a1:e9;
+  uid "\001\334\2462D\241\351";
+  client-hostname "pi11";
+}
+lease 192.168.1.110 {
+  starts 5 2024/11/22 02:14:28;
+  ends 5 2024/11/22 02:24:28;
+  cltt 5 2024/11/22 02:14:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet dc:a6:32:44:a1:e9;
+  uid "\001\334\2462D\241\351";
+  client-hostname "pi11";
+}
+lease 192.168.1.110 {
+  starts 5 2024/11/22 02:19:28;
+  ends 5 2024/11/22 02:29:28;
+  cltt 5 2024/11/22 02:19:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet dc:a6:32:44:a1:e9;
+  uid "\001\334\2462D\241\351";
+  client-hostname "pi11";
+}
+lease 192.168.1.110 {
+  starts 5 2024/11/22 02:24:28;
+  ends 5 2024/11/22 02:34:28;
+  cltt 5 2024/11/22 02:24:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet dc:a6:32:44:a1:e9;
+  uid "\001\334\2462D\241\351";
+  client-hostname "pi11";
+}
+lease 192.168.1.110 {
+  starts 5 2024/11/22 02:29:28;
+  ends 5 2024/11/22 02:39:28;
+  cltt 5 2024/11/22 02:29:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet dc:a6:32:44:a1:e9;
+  uid "\001\334\2462D\241\351";
+  client-hostname "pi11";
+}
+lease 192.168.1.110 {
+  starts 5 2024/11/22 02:34:28;
+  ends 5 2024/11/22 02:44:28;
+  cltt 5 2024/11/22 02:34:28;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet dc:a6:32:44:a1:e9;
+  uid "\001\334\2462D\241\351";
+  client-hostname "pi11";
+}

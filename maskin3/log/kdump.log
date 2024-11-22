@@ -1,0 +1,30 @@
++ 2024-11-04 08:05:53 /usr/bin/kdumpctl@675: /sbin/kexec -s -d -p '--command-line=BOOT_IMAGE=(hd0,msdos1)/vmlinuz-4.18.0-553.el8_10.x86_64 ro resume=/dev/mapper/rl-swap irqpoll nr_cpus=1 reset_devices cgroup_disable=memory mce=off numa=off udev.children-max=2 panic=10 rootflags=nofail acpi_no_memhotplug transparent_hugepage=never nokaslr novmcoredd hest_disable disable_cpu_apicid=0 iTCO_wdt.pretimeout=0 mei_wdt.pretimeout=0' --initrd=/boot/initramfs-4.18.0-553.el8_10.x86_64kdump.img /boot/vmlinuz-4.18.0-553.el8_10.x86_64
+Try gzip decompression.
+Try LZMA decompression.
++ 2024-11-04 08:05:53 /usr/bin/kdumpctl@679: ret=0
++ 2024-11-04 08:05:53 /usr/bin/kdumpctl@680: set +x
++ 2024-11-07 13:43:37 /usr/bin/kdumpctl@675: /sbin/kexec -s -d -p '--command-line=BOOT_IMAGE=(hd0,msdos1)/vmlinuz-4.18.0-553.el8_10.x86_64 ro resume=/dev/mapper/rl-swap irqpoll nr_cpus=1 reset_devices cgroup_disable=memory mce=off numa=off udev.children-max=2 panic=10 rootflags=nofail acpi_no_memhotplug transparent_hugepage=never nokaslr novmcoredd hest_disable disable_cpu_apicid=0 iTCO_wdt.pretimeout=0 mei_wdt.pretimeout=0' --initrd=/boot/initramfs-4.18.0-553.el8_10.x86_64kdump.img /boot/vmlinuz-4.18.0-553.el8_10.x86_64
+Try gzip decompression.
+Try LZMA decompression.
++ 2024-11-07 13:43:38 /usr/bin/kdumpctl@679: ret=0
++ 2024-11-07 13:43:38 /usr/bin/kdumpctl@680: set +x
++ 2024-11-07 14:17:23 /usr/bin/kdumpctl@675: /sbin/kexec -s -d -p '--command-line=BOOT_IMAGE=(hd0,msdos1)/vmlinuz-4.18.0-553.el8_10.x86_64 ro resume=/dev/mapper/rl-swap irqpoll nr_cpus=1 reset_devices cgroup_disable=memory mce=off numa=off udev.children-max=2 panic=10 rootflags=nofail acpi_no_memhotplug transparent_hugepage=never nokaslr novmcoredd hest_disable disable_cpu_apicid=0 iTCO_wdt.pretimeout=0 mei_wdt.pretimeout=0' --initrd=/boot/initramfs-4.18.0-553.el8_10.x86_64kdump.img /boot/vmlinuz-4.18.0-553.el8_10.x86_64
+Try gzip decompression.
+Try LZMA decompression.
++ 2024-11-07 14:17:24 /usr/bin/kdumpctl@679: ret=0
++ 2024-11-07 14:17:24 /usr/bin/kdumpctl@680: set +x
++ 2024-11-12 14:22:50 /usr/bin/kdumpctl@675: /sbin/kexec -s -d -p '--command-line=BOOT_IMAGE=(hd0,msdos1)/vmlinuz-4.18.0-553.el8_10.x86_64 ro resume=/dev/mapper/rl-swap irqpoll nr_cpus=1 reset_devices cgroup_disable=memory mce=off numa=off udev.children-max=2 panic=10 rootflags=nofail acpi_no_memhotplug transparent_hugepage=never nokaslr novmcoredd hest_disable disable_cpu_apicid=0 iTCO_wdt.pretimeout=0 mei_wdt.pretimeout=0' --initrd=/boot/initramfs-4.18.0-553.el8_10.x86_64kdump.img /boot/vmlinuz-4.18.0-553.el8_10.x86_64
+Try gzip decompression.
+Try LZMA decompression.
++ 2024-11-12 14:22:51 /usr/bin/kdumpctl@679: ret=0
++ 2024-11-12 14:22:51 /usr/bin/kdumpctl@680: set +x
++ 2024-11-15 04:58:12 /usr/bin/kdumpctl@675: /sbin/kexec -s -d -p '--command-line=BOOT_IMAGE=(hd0,msdos1)/vmlinuz-4.18.0-553.27.1.el8_10.x86_64 ro resume=/dev/mapper/rl-swap irqpoll nr_cpus=1 reset_devices cgroup_disable=memory mce=off numa=off udev.children-max=2 panic=10 rootflags=nofail acpi_no_memhotplug transparent_hugepage=never nokaslr novmcoredd hest_disable disable_cpu_apicid=0 iTCO_wdt.pretimeout=0 mei_wdt.pretimeout=0' --initrd=/boot/initramfs-4.18.0-553.27.1.el8_10.x86_64kdump.img /boot/vmlinuz-4.18.0-553.27.1.el8_10.x86_64
+Try gzip decompression.
+Try LZMA decompression.
++ 2024-11-15 04:58:13 /usr/bin/kdumpctl@679: ret=0
++ 2024-11-15 04:58:13 /usr/bin/kdumpctl@680: set +x
++ 2024-11-15 15:40:57 /usr/bin/kdumpctl@675: /sbin/kexec -s -d -p '--command-line=BOOT_IMAGE=(hd0,msdos1)/vmlinuz-4.18.0-553.27.1.el8_10.x86_64 ro resume=/dev/mapper/rl-swap irqpoll nr_cpus=1 reset_devices cgroup_disable=memory mce=off numa=off udev.children-max=2 panic=10 rootflags=nofail acpi_no_memhotplug transparent_hugepage=never nokaslr novmcoredd hest_disable disable_cpu_apicid=0 iTCO_wdt.pretimeout=0 mei_wdt.pretimeout=0' --initrd=/boot/initramfs-4.18.0-553.27.1.el8_10.x86_64kdump.img /boot/vmlinuz-4.18.0-553.27.1.el8_10.x86_64
+Try gzip decompression.
+Try LZMA decompression.
++ 2024-11-15 15:40:58 /usr/bin/kdumpctl@679: ret=0
++ 2024-11-15 15:40:58 /usr/bin/kdumpctl@680: set +x

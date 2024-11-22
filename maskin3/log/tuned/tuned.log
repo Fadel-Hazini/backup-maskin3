@@ -1,0 +1,99 @@
+2024-11-04 08:05:23,402 INFO     tuned.daemon.application: TuneD: 2.22.1, kernel: 4.18.0-553.el8_10.x86_64
+2024-11-04 08:05:23,402 INFO     tuned.daemon.application: dynamic tuning is globally disabled
+2024-11-04 08:05:23,408 INFO     tuned.daemon.daemon: using sleep interval of 1 second(s)
+2024-11-04 08:05:23,408 INFO     tuned.daemon.daemon: Running in automatic mode, checking what profile is recommended for your configuration.
+2024-11-04 08:05:23,797 INFO     tuned.daemon.daemon: Using 'throughput-performance' profile
+2024-11-04 08:05:23,799 INFO     tuned.profiles.loader: loading profile: throughput-performance
+2024-11-04 08:05:23,821 INFO     tuned.daemon.controller: starting controller
+2024-11-04 08:05:23,821 INFO     tuned.daemon.daemon: starting tuning
+2024-11-04 08:05:24,004 INFO     tuned.plugins.base: instance cpu: assigning devices cpu0, cpu1
+2024-11-04 08:05:24,017 INFO     tuned.plugins.plugin_cpu: We are running on an x86 GenuineIntel platform
+2024-11-04 08:05:24,049 WARNING  tuned.plugins.plugin_cpu: your CPU doesn't support MSR_IA32_ENERGY_PERF_BIAS, ignoring CPU energy performance bias
+2024-11-04 08:05:24,157 INFO     tuned.plugins.base: instance disk: assigning devices dm-0, sda, dm-2, dm-1
+2024-11-04 08:05:24,163 INFO     tuned.plugins.plugin_sysctl: reapplying system sysctl
+2024-11-04 08:05:24,194 INFO     tuned.daemon.daemon: static tuning from profile 'throughput-performance' applied
+2024-11-07 13:42:45,562 INFO     tuned.daemon.controller: terminating controller
+2024-11-07 13:42:45,562 INFO     tuned.daemon.daemon: stopping tuning
+2024-11-07 13:42:45,708 INFO     tuned.daemon.daemon: terminating TuneD due to system shutdown / reboot
+2024-11-07 13:43:32,590 INFO     tuned.daemon.application: TuneD: 2.22.1, kernel: 4.18.0-553.el8_10.x86_64
+2024-11-07 13:43:32,600 INFO     tuned.daemon.application: dynamic tuning is globally disabled
+2024-11-07 13:43:32,606 INFO     tuned.daemon.daemon: using sleep interval of 1 second(s)
+2024-11-07 13:43:32,629 INFO     tuned.daemon.daemon: Running in automatic mode, checking what profile is recommended for your configuration.
+2024-11-07 13:43:33,017 INFO     tuned.daemon.daemon: Using 'throughput-performance' profile
+2024-11-07 13:43:33,019 INFO     tuned.profiles.loader: loading profile: throughput-performance
+2024-11-07 13:43:33,042 INFO     tuned.daemon.controller: starting controller
+2024-11-07 13:43:33,042 INFO     tuned.daemon.daemon: starting tuning
+2024-11-07 13:43:33,202 INFO     tuned.plugins.base: instance cpu: assigning devices cpu1, cpu0
+2024-11-07 13:43:33,239 INFO     tuned.plugins.plugin_cpu: We are running on an x86 GenuineIntel platform
+2024-11-07 13:43:33,332 WARNING  tuned.plugins.plugin_cpu: your CPU doesn't support MSR_IA32_ENERGY_PERF_BIAS, ignoring CPU energy performance bias
+2024-11-07 13:43:33,610 INFO     tuned.plugins.base: instance disk: assigning devices dm-1, dm-0, sda, dm-2
+2024-11-07 13:43:33,619 INFO     tuned.plugins.plugin_sysctl: reapplying system sysctl
+2024-11-07 13:43:33,650 INFO     tuned.daemon.daemon: static tuning from profile 'throughput-performance' applied
+2024-11-07 14:16:37,439 INFO     tuned.daemon.controller: terminating controller
+2024-11-07 14:16:37,439 INFO     tuned.daemon.daemon: stopping tuning
+2024-11-07 14:16:37,530 INFO     tuned.daemon.daemon: terminating TuneD due to system shutdown / reboot
+2024-11-07 14:17:18,604 INFO     tuned.daemon.application: TuneD: 2.22.1, kernel: 4.18.0-553.el8_10.x86_64
+2024-11-07 14:17:18,638 INFO     tuned.daemon.application: dynamic tuning is globally disabled
+2024-11-07 14:17:18,644 INFO     tuned.daemon.daemon: using sleep interval of 1 second(s)
+2024-11-07 14:17:18,684 INFO     tuned.daemon.daemon: Running in automatic mode, checking what profile is recommended for your configuration.
+2024-11-07 14:17:19,106 INFO     tuned.daemon.daemon: Using 'throughput-performance' profile
+2024-11-07 14:17:19,107 INFO     tuned.profiles.loader: loading profile: throughput-performance
+2024-11-07 14:17:19,133 INFO     tuned.daemon.controller: starting controller
+2024-11-07 14:17:19,133 INFO     tuned.daemon.daemon: starting tuning
+2024-11-07 14:17:19,304 INFO     tuned.plugins.base: instance cpu: assigning devices cpu0, cpu1
+2024-11-07 14:17:19,318 INFO     tuned.plugins.plugin_cpu: We are running on an x86 GenuineIntel platform
+2024-11-07 14:17:19,410 WARNING  tuned.plugins.plugin_cpu: your CPU doesn't support MSR_IA32_ENERGY_PERF_BIAS, ignoring CPU energy performance bias
+2024-11-07 14:17:19,709 INFO     tuned.plugins.base: instance disk: assigning devices sda, dm-2, dm-0, dm-1
+2024-11-07 14:17:19,792 INFO     tuned.plugins.plugin_sysctl: reapplying system sysctl
+2024-11-07 14:17:19,824 INFO     tuned.daemon.daemon: static tuning from profile 'throughput-performance' applied
+2024-11-12 14:21:47,444 INFO     tuned.daemon.controller: terminating controller
+2024-11-12 14:21:47,444 INFO     tuned.daemon.daemon: stopping tuning
+2024-11-12 14:21:47,469 INFO     tuned.daemon.daemon: terminating TuneD, rolling back all changes
+2024-11-12 14:21:47,676 INFO     tuned.daemon.application: TuneD: 2.22.1, kernel: 4.18.0-553.el8_10.x86_64
+2024-11-12 14:21:47,676 INFO     tuned.daemon.application: dynamic tuning is globally disabled
+2024-11-12 14:21:47,681 INFO     tuned.daemon.daemon: using sleep interval of 1 second(s)
+2024-11-12 14:21:47,682 INFO     tuned.daemon.daemon: Running in automatic mode, checking what profile is recommended for your configuration.
+2024-11-12 14:21:47,851 INFO     tuned.daemon.daemon: Using 'throughput-performance' profile
+2024-11-12 14:21:47,852 INFO     tuned.profiles.loader: loading profile: throughput-performance
+2024-11-12 14:21:47,858 INFO     tuned.daemon.controller: starting controller
+2024-11-12 14:21:47,858 INFO     tuned.daemon.daemon: starting tuning
+2024-11-12 14:21:47,866 INFO     tuned.plugins.base: instance cpu: assigning devices cpu0, cpu1
+2024-11-12 14:21:47,871 INFO     tuned.plugins.plugin_cpu: We are running on an x86 GenuineIntel platform
+2024-11-12 14:21:47,873 WARNING  tuned.plugins.plugin_cpu: your CPU doesn't support MSR_IA32_ENERGY_PERF_BIAS, ignoring CPU energy performance bias
+2024-11-12 14:21:47,890 INFO     tuned.plugins.base: instance disk: assigning devices dm-0, sda, dm-1, dm-2
+2024-11-12 14:21:47,896 INFO     tuned.plugins.plugin_sysctl: reapplying system sysctl
+2024-11-12 14:21:47,925 INFO     tuned.daemon.daemon: static tuning from profile 'throughput-performance' applied
+2024-11-15 04:56:52,199 INFO     tuned.daemon.controller: terminating controller
+2024-11-15 04:56:52,269 INFO     tuned.daemon.daemon: stopping tuning
+2024-11-15 04:56:52,304 INFO     tuned.daemon.daemon: terminating TuneD due to system shutdown / reboot
+2024-11-15 04:57:44,267 INFO     tuned.daemon.application: TuneD: 2.22.1, kernel: 4.18.0-553.27.1.el8_10.x86_64
+2024-11-15 04:57:44,297 INFO     tuned.daemon.application: dynamic tuning is globally disabled
+2024-11-15 04:57:44,303 INFO     tuned.daemon.daemon: using sleep interval of 1 second(s)
+2024-11-15 04:57:44,333 INFO     tuned.daemon.daemon: Running in automatic mode, checking what profile is recommended for your configuration.
+2024-11-15 04:57:44,749 INFO     tuned.daemon.daemon: Using 'throughput-performance' profile
+2024-11-15 04:57:44,750 INFO     tuned.profiles.loader: loading profile: throughput-performance
+2024-11-15 04:57:44,760 INFO     tuned.daemon.controller: starting controller
+2024-11-15 04:57:44,760 INFO     tuned.daemon.daemon: starting tuning
+2024-11-15 04:57:44,935 INFO     tuned.plugins.base: instance cpu: assigning devices cpu0, cpu1
+2024-11-15 04:57:44,960 INFO     tuned.plugins.plugin_cpu: We are running on an x86 GenuineIntel platform
+2024-11-15 04:57:44,997 WARNING  tuned.plugins.plugin_cpu: your CPU doesn't support MSR_IA32_ENERGY_PERF_BIAS, ignoring CPU energy performance bias
+2024-11-15 04:57:45,130 INFO     tuned.plugins.base: instance disk: assigning devices sda, dm-0, dm-2, dm-1
+2024-11-15 04:57:45,136 INFO     tuned.plugins.plugin_sysctl: reapplying system sysctl
+2024-11-15 04:57:45,167 INFO     tuned.daemon.daemon: static tuning from profile 'throughput-performance' applied
+2024-11-15 15:40:08,663 INFO     tuned.daemon.controller: terminating controller
+2024-11-15 15:40:08,664 INFO     tuned.daemon.daemon: stopping tuning
+2024-11-15 15:40:08,726 INFO     tuned.daemon.daemon: terminating TuneD due to system shutdown / reboot
+2024-11-15 15:40:53,121 INFO     tuned.daemon.application: TuneD: 2.22.1, kernel: 4.18.0-553.27.1.el8_10.x86_64
+2024-11-15 15:40:53,151 INFO     tuned.daemon.application: dynamic tuning is globally disabled
+2024-11-15 15:40:53,157 INFO     tuned.daemon.daemon: using sleep interval of 1 second(s)
+2024-11-15 15:40:53,183 INFO     tuned.daemon.daemon: Running in automatic mode, checking what profile is recommended for your configuration.
+2024-11-15 15:40:53,578 INFO     tuned.daemon.daemon: Using 'throughput-performance' profile
+2024-11-15 15:40:53,579 INFO     tuned.profiles.loader: loading profile: throughput-performance
+2024-11-15 15:40:53,631 INFO     tuned.daemon.controller: starting controller
+2024-11-15 15:40:53,631 INFO     tuned.daemon.daemon: starting tuning
+2024-11-15 15:40:53,879 INFO     tuned.plugins.base: instance cpu: assigning devices cpu1, cpu0
+2024-11-15 15:40:53,885 INFO     tuned.plugins.plugin_cpu: We are running on an x86 GenuineIntel platform
+2024-11-15 15:40:53,924 WARNING  tuned.plugins.plugin_cpu: your CPU doesn't support MSR_IA32_ENERGY_PERF_BIAS, ignoring CPU energy performance bias
+2024-11-15 15:40:54,043 INFO     tuned.plugins.base: instance disk: assigning devices dm-0, dm-2, sda, dm-1
+2024-11-15 15:40:54,053 INFO     tuned.plugins.plugin_sysctl: reapplying system sysctl
+2024-11-15 15:40:54,088 INFO     tuned.daemon.daemon: static tuning from profile 'throughput-performance' applied

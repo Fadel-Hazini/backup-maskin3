@@ -1,0 +1,260 @@
+Start timestamp: 2024-11-22 02:00:01 +0100 (AIDE 0.16)
+AIDE found differences between database and filesystem!!
+
+Summary:
+  Total number of entries:	51112
+  Added entries:		167
+  Removed entries:		0
+  Changed entries:		10
+
+---------------------------------------------------
+Added entries:
+---------------------------------------------------
+
+f++++++++++++++++: /etc/NetworkManager/dispatcher.d/10-sendmail
+f++++++++++++++++: /etc/aliases.db
+l++++++++++++++++: /etc/alternatives/mta
+l++++++++++++++++: /etc/alternatives/mta-aliasesman
+l++++++++++++++++: /etc/alternatives/mta-editmap
+l++++++++++++++++: /etc/alternatives/mta-editmapman
+l++++++++++++++++: /etc/alternatives/mta-mailq
+l++++++++++++++++: /etc/alternatives/mta-mailqman
+l++++++++++++++++: /etc/alternatives/mta-makemap
+l++++++++++++++++: /etc/alternatives/mta-makemapman
+l++++++++++++++++: /etc/alternatives/mta-newaliases
+l++++++++++++++++: /etc/alternatives/mta-newaliasesman
+l++++++++++++++++: /etc/alternatives/mta-pam
+l++++++++++++++++: /etc/alternatives/mta-rmail
+l++++++++++++++++: /etc/alternatives/mta-rmailman
+l++++++++++++++++: /etc/alternatives/mta-sendmail
+l++++++++++++++++: /etc/alternatives/mta-sendmailman
+d++++++++++++++++: /etc/mail
+f++++++++++++++++: /etc/mail/Makefile
+f++++++++++++++++: /etc/mail/access
+f++++++++++++++++: /etc/mail/access.db
+f++++++++++++++++: /etc/mail/aliasesdb-stamp
+f++++++++++++++++: /etc/mail/domaintable
+f++++++++++++++++: /etc/mail/domaintable.db
+f++++++++++++++++: /etc/mail/helpfile
+f++++++++++++++++: /etc/mail/local-host-names
+f++++++++++++++++: /etc/mail/mailertable
+f++++++++++++++++: /etc/mail/mailertable.db
+f++++++++++++++++: /etc/mail/make
+f++++++++++++++++: /etc/mail/sendmail.cf
+f++++++++++++++++: /etc/mail/sendmail.mc
+f++++++++++++++++: /etc/mail/submit.cf
+f++++++++++++++++: /etc/mail/submit.mc
+f++++++++++++++++: /etc/mail/trusted-users
+f++++++++++++++++: /etc/mail/virtusertable
+f++++++++++++++++: /etc/mail/virtusertable.db
+f++++++++++++++++: /etc/mail.rc
+l++++++++++++++++: /etc/pam.d/smtp
+f++++++++++++++++: /etc/pam.d/smtp.sendmail
+f++++++++++++++++: /etc/pki/tls/certs/sendmail.pem
+f++++++++++++++++: /etc/pki/tls/private/sendmail.key
+f++++++++++++++++: /etc/sasl2/Sendmail.conf
+d++++++++++++++++: /etc/smrsh
+f++++++++++++++++: /etc/sysconfig/saslauthd
+f++++++++++++++++: /etc/sysconfig/sendmail
+l++++++++++++++++: /etc/systemd/system/multi-user.target.wants/sendmail.service
+l++++++++++++++++: /etc/systemd/system/multi-user.target.wants/sm-client.service
+l++++++++++++++++: /usr/bin/Mail
+f++++++++++++++++: /usr/bin/formail
+l++++++++++++++++: /usr/bin/hoststat
+f++++++++++++++++: /usr/bin/lockfile
+l++++++++++++++++: /usr/bin/mail
+l++++++++++++++++: /usr/bin/mailq
+l++++++++++++++++: /usr/bin/mailq.sendmail
+f++++++++++++++++: /usr/bin/mailstat
+f++++++++++++++++: /usr/bin/mailx
+l++++++++++++++++: /usr/bin/makemap
+l++++++++++++++++: /usr/bin/nail
+l++++++++++++++++: /usr/bin/newaliases
+l++++++++++++++++: /usr/bin/newaliases.sendmail
+f++++++++++++++++: /usr/bin/procmail
+l++++++++++++++++: /usr/bin/purgestat
+l++++++++++++++++: /usr/bin/rmail
+f++++++++++++++++: /usr/bin/rmail.sendmail
+l++++++++++++++++: /usr/lib/.build-id/05/abe564cc908118be0d73e00ce7e856a9088104
+l++++++++++++++++: /usr/lib/.build-id/23/5e5d8c0562b40a2aad78fee1a3d039072ffe5f
+l++++++++++++++++: /usr/lib/.build-id/4f/06b63134b56f78a17dd88f968d1ee902e14868
+l++++++++++++++++: /usr/lib/.build-id/52/11e154a659b6287204bf0e16de5efaeaf7f8e4
+l++++++++++++++++: /usr/lib/.build-id/54/d83aa20a127c1ea7d363d0499c9f989cafdc14
+l++++++++++++++++: /usr/lib/.build-id/64/fca791358297c7b98f6af7b2c950ed427e1e4f
+l++++++++++++++++: /usr/lib/.build-id/65/fc4155821c4a2234d1265a056847cb09e2622f
+l++++++++++++++++: /usr/lib/.build-id/70/4c821ae1d054d9ec338e774328b28b67472780
+l++++++++++++++++: /usr/lib/.build-id/85/ac574e6263605fd7cfcbdef6ec1ef3da43ed26
+l++++++++++++++++: /usr/lib/.build-id/95/b1e1ab9b15ffa7e2b8c5d62ae4b72834393c28
+l++++++++++++++++: /usr/lib/.build-id/96/8e09baa1e08ddae0a0f70bd2e09c424e643f49
+l++++++++++++++++: /usr/lib/.build-id/c1/cc204afc05dcb7f0fc6dcf45842c46a26bf699
+l++++++++++++++++: /usr/lib/.build-id/ed/ee7ddbfaab39d63348ab157415227e3d74b897
+l++++++++++++++++: /usr/lib/.build-id/fd/821c99b180f6c48286645f70d2fe6f351e76d6
+l++++++++++++++++: /usr/lib/sendmail
+l++++++++++++++++: /usr/lib/sendmail.sendmail
+f++++++++++++++++: /usr/lib/systemd/system/saslauthd.service
+f++++++++++++++++: /usr/lib/systemd/system/sendmail.service
+f++++++++++++++++: /usr/lib/systemd/system/sm-client.service
+l++++++++++++++++: /usr/sbin/editmap
+f++++++++++++++++: /usr/sbin/editmap.sendmail
+f++++++++++++++++: /usr/sbin/mailstats
+l++++++++++++++++: /usr/sbin/makemap
+f++++++++++++++++: /usr/sbin/makemap.sendmail
+f++++++++++++++++: /usr/sbin/pluginviewer
+f++++++++++++++++: /usr/sbin/praliases
+f++++++++++++++++: /usr/sbin/saslauthd
+l++++++++++++++++: /usr/sbin/sendmail
+f++++++++++++++++: /usr/sbin/sendmail.sendmail
+f++++++++++++++++: /usr/sbin/smrsh
+f++++++++++++++++: /usr/sbin/testsaslauthd
+d++++++++++++++++: /usr/share/doc/cyrus-sasl
+f++++++++++++++++: /usr/share/doc/cyrus-sasl/LDAP_SASLAUTHD
+d++++++++++++++++: /usr/share/doc/mailx
+f++++++++++++++++: /usr/share/doc/mailx/AUTHORS
+f++++++++++++++++: /usr/share/doc/mailx/COPYING
+f++++++++++++++++: /usr/share/doc/mailx/README
+d++++++++++++++++: /usr/share/doc/procmail
+f++++++++++++++++: /usr/share/doc/procmail/Artistic
+f++++++++++++++++: /usr/share/doc/procmail/COPYING
+f++++++++++++++++: /usr/share/doc/procmail/FAQ
+f++++++++++++++++: /usr/share/doc/procmail/FEATURES
+f++++++++++++++++: /usr/share/doc/procmail/HISTORY
+f++++++++++++++++: /usr/share/doc/procmail/KNOWN_BUGS
+f++++++++++++++++: /usr/share/doc/procmail/QuickStart
+f++++++++++++++++: /usr/share/doc/procmail/README
+f++++++++++++++++: /usr/share/doc/procmail/README.Maildir
+d++++++++++++++++: /usr/share/doc/procmail/examples
+f++++++++++++++++: /usr/share/doc/procmail/examples/1procmailrc
+f++++++++++++++++: /usr/share/doc/procmail/examples/1rmail
+f++++++++++++++++: /usr/share/doc/procmail/examples/2procmailrc
+f++++++++++++++++: /usr/share/doc/procmail/examples/2rmail
+f++++++++++++++++: /usr/share/doc/procmail/examples/3procmailrc
+f++++++++++++++++: /usr/share/doc/procmail/examples/3rmail
+f++++++++++++++++: /usr/share/doc/procmail/examples/advanced
+f++++++++++++++++: /usr/share/doc/procmail/examples/dirname
+f++++++++++++++++: /usr/share/doc/procmail/examples/forward
+f++++++++++++++++: /usr/share/doc/procmail/examples/local_procmail_lmtp.m4
+f++++++++++++++++: /usr/share/doc/procmail/examples/mailstat
+f++++++++++++++++: /usr/share/doc/procmail/examples/procmail-rpm.spec
+f++++++++++++++++: /usr/share/doc/procmail/telsas_procmailrc
+d++++++++++++++++: /usr/share/doc/sendmail
+f++++++++++++++++: /usr/share/doc/sendmail/FAQ
+f++++++++++++++++: /usr/share/doc/sendmail/KNOWNBUGS
+f++++++++++++++++: /usr/share/doc/sendmail/LICENSE
+f++++++++++++++++: /usr/share/doc/sendmail/README
+f++++++++++++++++: /usr/share/doc/sendmail/RELEASE_NOTES.gz
+l++++++++++++++++: /usr/share/man/man1/Mail.1.gz
+f++++++++++++++++: /usr/share/man/man1/formail.1.gz
+f++++++++++++++++: /usr/share/man/man1/lockfile.1.gz
+l++++++++++++++++: /usr/share/man/man1/mail.1.gz
+l++++++++++++++++: /usr/share/man/man1/mailq.1.gz
+f++++++++++++++++: /usr/share/man/man1/mailq.sendmail.1.gz
+f++++++++++++++++: /usr/share/man/man1/mailstat.1.gz
+f++++++++++++++++: /usr/share/man/man1/mailx.1.gz
+l++++++++++++++++: /usr/share/man/man1/nail.1.gz
+l++++++++++++++++: /usr/share/man/man1/newaliases.1.gz
+f++++++++++++++++: /usr/share/man/man1/newaliases.sendmail.1.gz
+f++++++++++++++++: /usr/share/man/man1/procmail.1.gz
+l++++++++++++++++: /usr/share/man/man5/aliases.5.gz
+f++++++++++++++++: /usr/share/man/man5/aliases.sendmail.5.gz
+f++++++++++++++++: /usr/share/man/man5/procmailex.5.gz
+f++++++++++++++++: /usr/share/man/man5/procmailrc.5.gz
+f++++++++++++++++: /usr/share/man/man5/procmailsc.5.gz
+l++++++++++++++++: /usr/share/man/man8/editmap.8.gz
+f++++++++++++++++: /usr/share/man/man8/editmap.sendmail.8.gz
+f++++++++++++++++: /usr/share/man/man8/hoststat.8.gz
+f++++++++++++++++: /usr/share/man/man8/mailstats.8.gz
+l++++++++++++++++: /usr/share/man/man8/makemap.8.gz
+f++++++++++++++++: /usr/share/man/man8/makemap.sendmail.8.gz
+f++++++++++++++++: /usr/share/man/man8/pluginviewer.8.gz
+f++++++++++++++++: /usr/share/man/man8/praliases.8.gz
+f++++++++++++++++: /usr/share/man/man8/purgestat.8.gz
+l++++++++++++++++: /usr/share/man/man8/rmail.8.gz
+f++++++++++++++++: /usr/share/man/man8/rmail.sendmail.8.gz
+f++++++++++++++++: /usr/share/man/man8/saslauthd.8.gz
+f++++++++++++++++: /usr/share/man/man8/sasldblistusers2.8.gz
+f++++++++++++++++: /usr/share/man/man8/saslpasswd2.8.gz
+l++++++++++++++++: /usr/share/man/man8/sendmail.8.gz
+f++++++++++++++++: /usr/share/man/man8/sendmail.sendmail.8.gz
+f++++++++++++++++: /usr/share/man/man8/smrsh.8.gz
+f++++++++++++++++: /usr/share/man/man8/testsaslauthd.8.gz
+f++++++++++++++++: /var/spool/cron/root
+
+---------------------------------------------------
+Changed entries:
+---------------------------------------------------
+
+f   ...    .C... : /etc/group
+f   ...    .C... : /etc/gshadow
+f   ...    .C... : /etc/passwd
+f   ...    .C... : /etc/shadow
+d   ...    n ... : /usr/share/doc
+d = ...    n ... : /var/log
+f < ...    . ... : /var/log/hawkey.log
+f < ...    . ... : /var/log/sssd/sssd_kcm.log
+f           C    : /var/spool/anacron/cron.daily
+f           C    : /var/spool/anacron/cron.weekly
+
+---------------------------------------------------
+Detailed information about changes:
+---------------------------------------------------
+
+File: /etc/group
+  SHA512   : MlikLCSup6a06Jwek9LzOWaM9PQb7IlQ | AdObzBwB5D1RUg2JZ3w7EGlWiiJ+H1f+
+             nrUQpTchuDt/JqFxfn35c9bhz3XfiDjw | mMPrzDo96QHYoSPzSIC/20S6ZjI7zJ4z
+             tGcxZ7fXU0ZSKLSbIDGBxw==         | XhLUzPim4IL9kS7vw9Yfqg==
+
+File: /etc/gshadow
+  SHA512   : lsYBAeBMs9tFGy3B/jm0UjTmD0QMsPxS | ZeTGpQYamHdcjpcvPvBs8JM88ACOyA8a
+             48zfknP6srghrIve4r5+j+JYC5thtVN3 | EzcD3PYKjiareI8iWXcr2We3oaBX3LC7
+             EgC60Ht+YqC5Gyu2LzAwDg==         | NUqFy4dOb4H4hZvQZY268w==
+
+File: /etc/passwd
+  SHA512   : /+SpisMwvOzpjbOFLV7m/q3WjiQMwUup | Sh2BM6290LQ6wumrHJb+x5nTuZhhRnqM
+             q9cl4GSsqpqIJPO3pdjuh+4o8nVuNd8z | xRVetUQBmfSL7/NDd+iAJkv1S+KmK1/4
+             vYVA2hEbDuxc2DYvEcjz2A==         | bRJVvrv95cVt6I2PqlQAsQ==
+
+File: /etc/shadow
+  SHA512   : cUJt7t1/alpj60ahKuEWn3NpevFQxNLi | GUnG3mBCa+MEbzYeQzq6JY3KiyRROJ8u
+             X777hZzow+dqDGXWzern6Dr+URzfKPWf | hrvVJDKR+c8izqm/CmYE4Ff5AIpZpgXd
+             v3odG3POtfU0wSTMIC9yNw==         | 8YACT9TMtV6SmOaKhPZCNw==
+
+Directory: /usr/share/doc
+  Linkcount: 294                              | 298
+
+Directory: /var/log
+  Linkcount: 10                               | 11
+
+File: /var/log/hawkey.log
+  Size     : 3840                             | 2100
+
+File: /var/log/sssd/sssd_kcm.log
+  Size     : 2871                             | 1566
+
+File: /var/spool/anacron/cron.daily
+  SHA512   : chDWYaFCXYzAtIGCZ5PamqLkqsufI6Hs | lW3WiWrUX5s7IAYmGzpmOkTufxcqwVya
+             wUR7chI11vranuZuHA+CTNn9ggtmmeLW | r9AjJih1qReUpO9vw3uzHSjG1nyqBjbo
+             VOPGwwS6DD/nq4GDCjBe/Q==         | bp0PjApnHTzkXmZy+IVfEQ==
+
+File: /var/spool/anacron/cron.weekly
+  SHA512   : Q8Ic6IHjKEjirp2a5paI54KE8dRhfbls | ZDY/yJO2aTN0nq4R69p0dGo8GTNUCZQh
+             MSBemh5LypJ8049lZFycvn+0G+ED7ZS0 | i8wxSQ7ro/8/HM75fml0aXe76Hwx1n8p
+             TGIRFEh12FDLwdiM8Q2wdw==         | wznf+KMmXUjVOwKsLywmPw==
+
+
+---------------------------------------------------
+The attributes of the (uncompressed) database(s):
+---------------------------------------------------
+
+/var/lib/aide/aide.db.gz
+  MD5      : j8us/e7+33RtMXFfyrMl5Q==
+  SHA1     : qvls+teiRFyaGp8Zd6ae6+qUWZU=
+  RMD160   : iwbfhuNT8gQAWbrVPMPhgV7d93g=
+  TIGER    : NHLLh8E5kf18wlmKG3gNsJRs1M8pG8zH
+  SHA256   : lJxS64U8UyHIOkmqCLKuLCD+08BIs+Dm
+             Q/gq5UOlWRI=
+  SHA512   : eUeCTvN5V9DN4hYljLQMg9iK3X1SJCPL
+             BXOZg9MNqyZtyJGlNS2lU6IheQ+62vN+
+             CsLo3aypeRV2Aiie3KaR2g==
+
+
+End timestamp: 2024-11-22 02:00:15 +0100 (run time: 0m 14s)
